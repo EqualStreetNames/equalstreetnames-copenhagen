@@ -5,10 +5,13 @@ name,source,gender,wikidata,type
 Albaniensgade,wikidata,,Q222,way
 Aldersrogade,wikidata,,Q12300926,way
 Alsgade,wikidata,,Q165383,way
+"Amager Boulevard",wikidata,,Q210396,way
+"Amager Landevej",wikidata,,Q210396,way
 Amagergade,wikidata,,Q210396,way
 Amagertorv,wikidata,,Q24041706,way
 "Amalienborg Slotsplads",wikidata,,Q211053,relation+way
 Angelgade,wikidata,,Q506043,way
+Antwerpengade,wikidata,,Q31467408,way
 "Århus Plads",wikidata,,Q25319,way
 Århusgade,wikidata,,Q25319,way
 Armeniensvej,wikidata,,Q399,way
@@ -23,20 +26,26 @@ Banegårdspladsen,wikidata,,Q1495052,way
 Belfastvej,wikidata,,Q10686,way
 Belgiensgade,wikidata,,Q31,way
 "Belle de Boskoopvej",wikidata,,Q504565,way
+Bergensgade,wikidata,,Q26793,way
+Bilbaogade,wikidata,,Q8692,way
 "Blågårds Plads",wikidata,,Q12303879,way
 Bogensegade,wikidata,,Q890536,way
 "Bopa Plads",wikidata,,Q4836222,way
+Bordeauxgade,wikidata,,Q1479,way
 Borneovej,wikidata,,Q36117,way
 Bornholmsgade,wikidata,,Q769680,way
 Bragesgade,wikidata,,Q199959,way
+Brammingegade,wikidata,,Q12304252,way
 Bremerholm,wikidata,,Q3366177,way
 "Brønshøj torv",wikidata,,Q3354065,way
 Bryghuspladsen,wikidata,,Q16323887,way
 Brynhildegade,wikidata,,Q850506,way
 Brysselgade,wikidata,,Q239,way
 Bulgariensgade,wikidata,,Q219,way
+Burgundyvej,wikidata,,Q41775708,way
 "Christiansborg Slotsplads",wikidata,,Q940733,way
 "Christianshavns Torv",wikidata,,Q861363,way
+Corkgade,wikidata,,Q36647,way
 "Cox Orangevej",wikidata,,Q492655,way
 Cypernsvej,wikidata,,Q229,way
 Delfingade,wikidata,,Q7369,way
@@ -44,6 +53,7 @@ Delosvej,wikidata,,Q173148,way
 Drejøgade,wikidata,,Q1251885,way
 Drogdensgade,wikidata,,Q9108331,way
 Dublinvej,wikidata,,Q1761,way
+Dunkerquegade,wikidata,,Q45797,way
 Elsdyrsgade,wikidata,,Q35517,way
 Elstarvej,wikidata,,Q486412,way
 "Enghave Plads",wikidata,,Q12310142,way
@@ -61,9 +71,12 @@ Frederiksborgvej,wikidata,,Q226103,way
 Frederikssundsvej,wikidata,,Q3223801,way
 Frejasgade,wikidata,,Q1647325,way
 "Frue Plads",wikidata,,Q1451811,way
+Gasværksvej,wikidata,,Q12340829,way
+Gdanskgade,wikidata,,Q1792,way
 Gefionbroen,wikidata,,Q952817,way
 Genuavej,wikidata,,Q1449,way
 Glostervej,wikidata,,Q353082,way
+Glückstadtsvej,wikidata,,Q377277,way
 "Göteborg Plads",wikidata,,Q25287,way
 Gråbrødretorv,wikidata,,Q5482988,way
 Grækenlandsvej,wikidata,,Q41,way
@@ -71,21 +84,27 @@ Gråstensgade,wikidata,,Q3414260,way
 Grenågade,wikidata,,Q3619316,way
 Haderslevgade,wikidata,,Q29868,way
 Halsskovgade,wikidata,,Q10516606,way
+"Hamborg Plads",wikidata,,Q1055,way
 Hammerensgade,wikidata,,Q5645686,way
 Haregade,wikidata,,Q63941258,way
+Harwichgade,wikidata,,Q990616,way
 Havdrupvej,wikidata,,Q2892005,way
 Hedebygade,wikidata,,Q165414,way
 Heimdalsgade,wikidata,,Q131196,way
 Helsingborggade,wikidata,,Q25411,way
+Helsinkigade,wikidata,,Q1757,way
 Herfølgevej,wikidata,,Q3087877,way
+Herninggade,wikidata,,Q27393,way
 Hesseløgade,wikidata,,Q1615765,way
 Hessensgade,wikidata,,Q1199,way
 Hildursgade,wikidata,,Q3354101,way
 Hindegade,wikidata,,Q23390,way
 Hjertensfrydsgade,wikidata,,Q148396,way
+Hjørringgade,wikidata,,Q21185,way
 Hobrogade,wikidata,,Q927713,way
 "Højbro Plads",wikidata,,Q12060368,way
 Holbækgade,wikidata,,Q28042,way
+Holstebrogade,wikidata,,Q27678,way
 Horsensgade,wikidata,,Q190235,way
 "Hothers Plads",wikidata,,Q204900,way
 "Husum Torv",wikidata,,Q1802930,way
@@ -98,6 +117,7 @@ Iranvej,wikidata,,Q794,way
 Istedgade,wikidata,,Q551408,way
 Italiensvej,wikidata,,Q38,way
 Jægersborggade,wikidata,,Q12320681,way
+"James Grievevej",wikidata,,Q492928,way
 Japanvej,wikidata,,Q17,way
 Javavej,wikidata,,Q3757,way
 Jemtelandsgade,wikidata,,Q211661,way
@@ -105,10 +125,13 @@ Karlslundevej,wikidata,,Q2100695,way
 Kastelsvej,wikidata,,Q221812,way
 Kastrupvej,wikidata,,Q1420866,way
 Kertemindegade,wikidata,,Q29969,way
+Kielgade,wikidata,,Q1707,way
 Kinavej,wikidata,,Q148,way
+Klaipedagade,wikidata,,Q776965,way
 Klareboderne,wikidata,,Q7587605,way
 Knabstrupvej,wikidata,,Q3072351,way
 Købmagergade,wikidata,,Q329737,way
+Koldinggade,wikidata,,Q27119,way
 Korfuvej,wikidata,,Q121378,way
 Korsikavej,wikidata,,Q14112,way
 Korsørgade,wikidata,,Q1784816,way
@@ -136,8 +159,10 @@ Maltagade,wikidata,,Q233,way
 Manøgade,wikidata,,Q21156,way
 Marathonvej,wikidata,,Q212150,way
 Maribovej,wikidata,,Q386402,way
+Mariehamngade,wikidata,,Q48329,way
 Marstalsgade,wikidata,,Q3413939,way
 Masnedøgade,wikidata,,Q1758574,way
+Middelfartgade,wikidata,,Q613441,way
 Midgårdsgade,wikidata,,Q180682,way
 Milanovej,wikidata,,Q490,way
 "Mimers Plads",wikidata,,Q336496,way
@@ -148,6 +173,7 @@ Møgeltøndergade,wikidata,,Q3530269,way
 Næstvedgade,wikidata,,Q21178,way
 Nakskovvej,wikidata,,Q24231,way
 Nannasgade,wikidata,,Q500390,way
+Norgesgade,wikidata,,Q20,way
 Normandigade,wikidata,,Q15878,way
 "Nyboder Plads",wikidata,,Q4572827,way
 Nyborggade,wikidata,,Q3530435,way
@@ -157,6 +183,7 @@ Nystedvej,wikidata,,Q1813837,way
 Odinsgade,wikidata,,Q43610,way
 "Ofelia Plads",wikidata,,Q1800888,way
 Omøgade,wikidata,,Q338037,way
+"Ørestads Boulevard",wikidata,,Q260675,way
 Øresundsvej,wikidata,,Q104662,way
 "Oslo Plads",wikidata,,Q585,way
 Østrigsgade,wikidata,,Q40,way
@@ -174,9 +201,13 @@ Rævegade,wikidata,,Q8331,way
 Randersgade,wikidata,,Q27168,way
 Reersøgade,wikidata,,Q23741656,way
 Regnbuepladsen,wikidata,,Q51401,way
+Rigagade,wikidata,,Q1773,way
 Rigsdagsgården,wikidata,,Q3493553,way
+Ringkøbinggade,wikidata,,Q502693,way
 Rødbyvej,wikidata,,Q161975,way
 Rodosvej,wikidata,,Q43048,way
+Roskildevej,wikidata,,Q26563,way
+Rostockgade,wikidata,,Q2861,way
 Rubinolavej,wikidata,,Q3446510,way
 Rumæniensgade,wikidata,,Q218,way
 Saltholmsvej,wikidata,,Q841736,way
@@ -186,7 +217,9 @@ Samosvej,wikidata,,Q156882,way
 "Sankt Nikolaj Plads",wikidata,,Q747844,way
 "Sankt Pauls Gade",wikidata,,Q7591041,way
 "Sankt Pauls Plads",wikidata,,Q7591041,way
+"Sankt Petersborg Plads",wikidata,,Q656,way
 "Sankt Thomas Plads",wikidata,,Q12334630,way
+Sassnitzgade,wikidata,,Q494631,way
 Sejrøgade,wikidata,,Q956682,way
 Serbiensgade,wikidata,,Q403,way
 Shetlandsgade,wikidata,,Q47134,way
@@ -204,7 +237,9 @@ Slotsholmsgade,wikidata,,Q923130,way
 Smørumvej,wikidata,,Q12001608,way
 Solrødvej,wikidata,,Q12336375,way
 Sorrentovej,wikidata,,Q72672,way
+Southamptongade,wikidata,,Q79848,way
 Spaniensgade,wikidata,,Q29,way
+Stavangergade,wikidata,,Q25416,way
 Stefansgade,wikidata,,Q12334625,way
 Stockholmsgade,wikidata,,Q1754,way
 Strynøgade,wikidata,,Q2003643,way
@@ -216,6 +251,7 @@ Svanegade,wikidata,,Q34384,way
 Svanemøllevej,wikidata,,Q12337848,way
 Svendborggade,wikidata,,Q28031,way
 Syriensvej,wikidata,,Q858,way
+Tallinngade,wikidata,,Q1770,way
 Tåsingegade,wikidata,,Q402692,way
 Thorsgade,wikidata,,Q42952,way
 Tigergade,wikidata,,Q19939,way
@@ -223,13 +259,19 @@ Timiansgade,wikidata,,Q131224,way
 Titangade,wikidata,,Q12339450,way
 Tølløsevej,wikidata,,Q7061097,way
 Tøndergade,wikidata,,Q3223979,way
+Travemündegade,wikidata,,Q321792,way
+Trelleborggade,wikidata,,Q26943,way
 Trianglen,wikidata,,Q19821,way
 Trojavej,wikidata,,Q22647,way
 Trøjborggade,wikidata,,Q1724011,way
+"Trondhjems Plads",wikidata,,Q25804,way
+Trondhjemsgade,wikidata,,Q25804,way
 Ungarnsgade,wikidata,,Q28,way
 Upsalagade,wikidata,,Q25286,way
+"Valby Maskinfabriksvej",wikidata,,Q48803287,way
 Valhalsgade,wikidata,,Q177860,way
 Vandværksviadukten,wikidata,,Q12323416,way
+Vardegade,wikidata,,Q2048321,way
 Vejlegade,wikidata,,Q27116,way
 Vejrøgade,wikidata,,Q174379,way
 Veksøvej,wikidata,,Q7918750,way
@@ -301,8 +343,6 @@ Alperosevej,,,,way
 Alstedvej,,,,way
 Ålstrupvej,,,,way
 Amager,,,,relation
-"Amager Boulevard",,,,way
-"Amager Landevej",,,,way
 "Amager Motocross Klub",,,,way
 "Amager Strand Promenaden",,,,way
 "Amager Strandvej",,,,way
@@ -328,7 +368,6 @@ Annexstræde,,,,way
 "Ansgars Allé",,,,way
 Antoinettevej,,,,way
 Antonigade,,,,way
-Antwerpengade,,,,way
 Apollovej,,,,way
 "Applebys Plads",,,,way
 Arabiensvej,,,,way
@@ -336,7 +375,6 @@ Arendalsgade,,,,way
 Arildsgård,,,,way
 Arkaderne,,,,way
 Arkonagade,,,,way
-"Arne Jacobsens Allé",,,,way
 Arnestedet,,,,way
 Arnesvej,,,,way
 "Arni Magnussons Gade",,,,way
@@ -345,7 +383,6 @@ Arsenaløen,,,,relation
 Arsenalvej,,,,way
 Artillerivej,,,,way
 "Asger Holms Vej",,,,way
-"Asger Jorns Allé",,,,way
 "Asger Rygs Gade",,,,way
 Askeskellet,,,,way
 Asminderødgade,,,,way
@@ -391,7 +428,6 @@ Bavnevangen,,,,way
 Beatevej,,,,way
 Bechgaardsgade,,,,way
 Bedfordvej,,,,way
-Beethovensvej,,,,way
 "Bekkersgård Vænge",,,,way
 Beldringevej,,,,way
 Bellahøjvej,,,,way
@@ -400,8 +436,6 @@ Bellisgangen,,,,way
 Bellisvej,,,,way
 Belvederebroen,,,,way
 Belvederekaj,,,,way
-"Ben Websters Vej",,,,way
-Bergensgade,,,,way
 Berggreensgade,,,,way
 Bergthorasgade,,,,way
 Bernikowgården,,,,way
@@ -411,7 +445,6 @@ Bernstorffsvej,,,,way
 "Bertha von Suttners Vej",,,,way
 Bevtoftgade,,,,way
 "Biens Allé",,,,way
-Bilbaogade,,,,way
 Billedvej,,,,way
 Billesborgvej,,,,way
 Birkagervej,,,,way
@@ -479,7 +512,6 @@ Bomsluttervej,,,,way
 Bomstien,,,,way
 Bomuldsgade,,,,way
 Bonderosestien,,,,way
-Bordeauxgade,,,,way
 Borgbjergsvej,,,,way
 Borgerbo,,,,way
 Borgergade,,,,way
@@ -500,7 +532,6 @@ Borthigsgade,,,,way
 Boserupvej,,,,way
 Botoftevej,,,,way
 Boyesgade,,,,way
-Brammingegade,,,,way
 Bramslykkevej,,,,way
 Bratskovvej,,,,way
 Bredahlsvej,,,,way
@@ -514,8 +545,6 @@ Breslaugade,,,,way
 Brigadegården,,,,way
 Brigadevej,,,,way
 "Bristol Allé",,,,way
-Bro,,,,way
-"Bro 5",,,,way
 "Bro 7A",,,,way
 "Bro 7B",,,,way
 Broagergade,,,,way
@@ -544,7 +573,6 @@ Bryggervangen,,,,way
 Bryghusbroen,,,,way
 Bulbjergvej,,,,way
 Bülowsvej,,,,way
-Burgundyvej,,,,way
 Burmeistersgade,,,,way
 Buskager,,,,way
 Bustrupgade,,,,way
@@ -574,7 +602,6 @@ Caprivej,,,,way
 "Carl Torps Vej",,,,way
 Carlsbergviadukten,,,,way
 Carlsgade,,,,way
-"Carsten Niebuhrs Gade",,,,way
 Carstensgade,,,,way
 Castbergsvej,,,,way
 Cedergangen,,,,way
@@ -602,7 +629,6 @@ Clematisvej,,,,way
 Colbjørnsensgade,,,,way
 Collinsgade,,,,way
 "Constantin Hansens Gade",,,,way
-Corkgade,,,,way
 Cumberlandsgade,,,,way
 Cykellegeplads,,,,way
 Cykelslangen,,,,way
@@ -643,7 +669,6 @@ Degnestavnen,,,,way
 Derbyvej,,,,way
 "Dessaus Boulevard",,,,way
 "Det Genmodificerede Paradis",,,,way
-"Dexter Gordons Vej",,,,way
 Dieselvej,,,,way
 Digevej,,,,way
 Dirchsvej,,,,way
@@ -680,7 +705,6 @@ Edelsmindevej,,,,way
 "Edith Rodes Vej",,,,way
 "Edvard Falcks Gade",,,,way
 "Edvard Storms Vej",,,,way
-"Edvard Thomsens Vej",,,,way
 Efterslægtsvej,,,,way
 Egebæksvej,,,,way
 Egegade,,,,way
@@ -692,7 +716,6 @@ Egholmvej,,,,way
 Egilsgade,,,,way
 "Ejby Alle",,,,way
 Ejderstedgade,,,,way
-"Ejler Billes Allé",,,,way
 Ekvipagemestervej,,,,way
 Elbagade,,,,way
 Eliasgade,,,,way
@@ -703,7 +726,6 @@ Ellestykket,,,,way
 Ellevangen,,,,way
 Elmegade,,,,way
 Elmelundevej,,,,way
-"Else Alfelts Vej",,,,way
 Elselillevej,,,,way
 Elværksvej,,,,way
 Elvergårdsvej,,,,way
@@ -743,8 +765,6 @@ Erantisvej,,,,way
 "Erik Ejegods Gade",,,,way
 Eriksgade,,,,way
 Eriksholmvej,,,,way
-"Ernie Wilkins Vej",,,,way
-"Ernst Kapers Vej",,,,way
 "Ernst Meyers Gade",,,,way
 Eschrichtsvej,,,,way
 Eskadrevej,,,,way
@@ -756,7 +776,6 @@ Esromgade,,,,way
 Esthersvej,,,,way
 Estlandsgade,,,,way
 Etonvej,,,,way
-"Etta Camerons Vej",,,,way
 Evanstonevej,,,,way
 Ewaldsgade,,,,way
 "F.F. Ulriks Gade",,,,way
@@ -846,7 +865,6 @@ Freundsgade,,,,way
 "Fridtjof Nansens Plads",,,,way
 "Frilands Allé",,,,way
 Frimestervej,,,,way
-"Frode Jakobsens Plads",,,,way
 Fruebjergvej,,,,way
 Frugthaven,,,,way
 Fuglagervej,,,,way
@@ -886,10 +904,8 @@ Gåsebæksvej,,,,way
 Gåsegade,,,,way
 Gåsestien,,,,way
 Gåseurtvej,,,,way
-Gasværksvej,,,,way
 Gaunøvej,,,,way
 Gavlhusvej,,,,way
-Gdanskgade,,,,way
 Gearhalsvej,,,,way
 Gefionsgade,,,,way
 Geislersgade,,,,way
@@ -918,7 +934,6 @@ Glasvej,,,,way
 Glentevej,,,,way
 Glinkasvej,,,,way
 Glommensgade,,,,way
-Glückstadtsvej,,,,way
 Glucksvej,,,,way
 Glumsøvej,,,,way
 Godsbanegade,,,,way
@@ -932,7 +947,6 @@ Gransangervej,,,,way
 Gråspurvevej,,,,way
 Gravervænget,,,,way
 Greisvej,,,,way
-"Grethe Ingmanns Vej",,,,way
 Grevingevej,,,,way
 Gribskovvej,,,,way
 Griffenfeldsgade,,,,way
@@ -968,7 +982,6 @@ Gullandsgade,,,,way
 Gullfossgade,,,,way
 Gunløgsgade,,,,way
 "Gustav Adolfs Gade",,,,way
-"Gustav Bangs Gade",,,,way
 Gyldenlakvej,,,,way
 Gyldenløvesgade,,,,way
 Gyldenrisvej,,,,way
@@ -993,7 +1006,6 @@ Hallandsgade,,,,way
 Hallinsgade,,,,way
 Halmtorvet,,,,way
 Halvtolv,,,,way
-"Hamborg Plads",,,,way
 Hambrosgade,,,,way
 Hamletsgade,,,,way
 Hammelstrupvej,,,,way
@@ -1009,7 +1021,6 @@ Hannovergade,,,,way
 "Hans Tavsens Stien",,,,way
 Hansstedvej,,,,way
 Hanstholmvej,,,,way
-"Harald Jensens Gade",,,,way
 Haraldstedvej,,,,way
 Harboørevej,,,,way
 Hardangergade,,,,way
@@ -1019,7 +1030,6 @@ Harespringet,,,,way
 "Harrestrup Å",,,,way
 "Harrestrup Allé",,,,way
 Harrestrupvang,,,,way
-Harwichgade,,,,way
 Hasselvej,,,,way
 Hastingsvej,,,,way
 Hattemagerstien,,,,way
@@ -1044,7 +1054,6 @@ Hegningen,,,,way
 Hegnshusene,,,,way
 Heilsgade,,,,way
 Heinesgade,,,,way
-Heisesgade,,,,way
 Hejrevej,,,,way
 "Heklas Allé",,,,way
 Heldbovej,,,,way
@@ -1057,7 +1066,6 @@ Helleborg,,,,way
 Hellelidenvej,,,,way
 Hellestedvej,,,,way
 Helsingørmotorvejen,,,,way
-Helsinkigade,,,,way
 Hemsedalsgade,,,,way
 Hendonvej,,,,way
 "Henriette Crones Gade",,,,way
@@ -1073,7 +1081,6 @@ Herjedalgade,,,,way
 "Herlev Hovedgade",,,,way
 Herlufsholmvej,,,,way
 Hermodsgade,,,,way
-Herninggade,,,,way
 Herslevvej,,,,way
 Hestehaven,,,,way
 Hestemøllestræde,,,,way
@@ -1099,11 +1106,9 @@ Hindustanvej,,,,way
 "Hiort Lorenzens Gade",,,,way
 Hirsevej,,,,way
 Hirtshalsvej,,,,way
-"Hjalmar Brantings Plads",,,,way
 Hjelmsgade,,,,way
 Hjertingvej,,,,way
 Hjørnelodden,,,,way
-Hjørringgade,,,,way
 Hjortdalsvej,,,,way
 "Hjortholms Allé",,,,way
 Hjortøgade,,,,way
@@ -1132,7 +1137,6 @@ Holmbladsvænge,,,,way
 "Holmens Kanal",,,,way
 Holmestien,,,,way
 Holmevej,,,,way
-Holstebrogade,,,,way
 Holsteinborgvej,,,,way
 Holsteinsgade,,,,way
 Holtegade,,,,way
@@ -1185,6 +1189,7 @@ Indiakaj,,,,way
 Indiavej,,,,way
 "Inger Hempels Gade",,,,way
 "Ingolfs Allé",,,,way
+"Ingrid Jespersens Plads",,,,way
 Irisgangen,,,,way
 Irisvej,,,,way
 Irlandsvej,,,,way
@@ -1204,7 +1209,6 @@ Jægersprisvej,,,,way
 Jagtvej,,,,way
 "Jakob Dannefærds Vej",,,,way
 "Jakob Knudsens Vej",,,,way
-"James Grievevej",,,,way
 "Jane Addams Vej",,,,way
 Jansvej,,,,way
 "Jarmers Plads",,,,way
@@ -1284,10 +1288,8 @@ Kavalergangen,,,,way
 Kedelpladsen,,,,way
 Kejsergade,,,,way
 Keldsøvej,,,,way
-"Kenny Drews Vej",,,,way
 Kentiavej,,,,way
 Kernebidergangen,,,,way
-Kielgade,,,,way
 Kigkurren,,,,way
 Kildeager,,,,way
 Kildebrøndevej,,,,way
@@ -1311,7 +1313,6 @@ Kjærstrupvej,,,,way
 "Kjeld Langes Gade",,,,way
 Kjeldsgårdsvej,,,,way
 Klædemålet,,,,way
-Klaipedagade,,,,way
 Klaksvigsgade,,,,way
 Kleinsgade,,,,way
 Klerkegade,,,,way
@@ -1339,7 +1340,6 @@ Knuthenborgvej,,,,way
 Kobbelvænget,,,,way
 "Købkes Plads",,,,way
 Kødboderne,,,,way
-Koldinggade,,,,way
 Kompagnistræde,,,,way
 "Kong Oscars Gade",,,,way
 "Kong Volmers Vej",,,,way
@@ -1482,12 +1482,10 @@ Løgæblevej,,,,way
 Løjtegårdsvej,,,,way
 Lombardigade,,,,way
 "Lønborg Allé",,,,way
-"Lone Kellermanns Vej",,,,way
 Løngangstræde,,,,way
 Lønporten,,,,way
 Lønstrupvej,,,,way
 Lotusvej,,,,way
-"Louis Pios Gade",,,,way
 Løvefodgangen,,,,way
 Løvehuset,,,,way
 Løvetandsvej,,,,way
@@ -1545,7 +1543,6 @@ Marbjergvej,,,,way
 Marengovej,,,,way
 "Margrethe Høst Neerups Gade",,,,way
 Margretheholmsvej,,,,way
-Mariehamngade,,,,way
 Markmandsgade,,,,way
 Markskellet,,,,way
 Markskiftevej,,,,way
@@ -1574,7 +1571,6 @@ Messinavej,,,,way
 Mesterstien,,,,way
 Metrovej,,,,way
 "Michael Strunges Vej",,,,way
-Middelfartgade,,,,way
 Middelgrundsvej,,,,way
 Midtdyssen,,,,way
 Midtermolen,,,,way
@@ -1597,7 +1593,6 @@ Møllebakken,,,,way
 Møllegade,,,,way
 Møllegårdsvej,,,,way
 Møllerlodden,,,,way
-"Monica Zetterlunds Vej",,,,way
 "Monrads Allé",,,,way
 "Monrads Plads",,,,way
 Montagehalsvej,,,,way
@@ -1617,7 +1612,6 @@ Moselgade,,,,way
 Moseskellet,,,,way
 Mosestykket,,,,way
 Mosesvinget,,,,way
-Mozartsvej,,,,way
 Muldager,,,,way
 Mullerupvej,,,,way
 Murciagade,,,,way
@@ -1643,9 +1637,7 @@ Nedertoften,,,,way
 "Nelson Mandelas Allé",,,,way
 "Nicolai Eigtveds Gade",,,,way
 "Niels Andersens Vej",,,,way
-"Niels Brocks Gade",,,,way
 "Niels Neergaards Gade",,,,way
-"Niels W. Gades Gade",,,,way
 "Nielsine Nielsens Vej",,,,way
 "Nikolaj Plads",,,,way
 Nikolajgade,,,,way
@@ -1679,7 +1671,6 @@ Nordrupvej,,,,way
 Nordsøvej,,,,way
 Nordstien,,,,way
 Nordvestpassagen,,,,way
-Norgesgade,,,,way
 Norgesmindevej,,,,way
 "Nørre Allé",,,,way
 "Nørre Farimagsgade",,,,way
@@ -1729,10 +1720,8 @@ Oliehavnsbroen,,,,way
 Oliemøllegade,,,,way
 "Olivia Hansens Gade",,,,way
 "Olivia Nielsens Gade",,,,way
-"Olof Palmes Gade",,,,way
 Olufsvej,,,,way
 Olymposvej,,,,way
-"Ørestads Boulevard",,,,way
 "Øresund Parkvej",,,,way
 Øresundsmotorvejen,,,,way
 Øresundsstien,,,,way
@@ -1744,7 +1733,6 @@ Orgelbyggervej,,,,way
 Orientkaj,,,,way
 Orlogsværftsvej,,,,way
 Ørnevej,,,,way
-"Oscar Pettifords Vej",,,,way
 Øselsgade,,,,way
 Østbanegade,,,,way
 "Øster Allé",,,,way
@@ -1765,13 +1753,10 @@ Orlogsværftsvej,,,,way
 "Ottilia Jacobsens Plads",,,,way
 Ottiliavej,,,,way
 "Otto Baches Alle",,,,way
-"Otto Brandenburgs Vej",,,,way
-"Otto Busses Vej",,,,way
 "Otto Mallings Gade",,,,way
 "Otto Mønsteds Gade",,,,way
 "Otto Mønsteds Plads",,,,way
 "Otto Ruds Vej",,,,way
-"Ove Arups Vej",,,,way
 "Overbys Allé",,,,way
 Overdrevsvej,,,,way
 "Overgaden Neden Vandet",,,,way
@@ -1779,7 +1764,6 @@ Overdrevsvej,,,,way
 Overskousvej,,,,way
 "Oxford Allé",,,,way
 "Oxford Have",,,,way
-"P. Knudsens Gade",,,,way
 "P. Løwenørns Vej",,,,way
 "P.D. Løvs Allé",,,,way
 "På Bjerget",,,,way
@@ -1899,11 +1883,8 @@ Reverdilsgade,,,,way
 Reykjaviksgade,,,,way
 Rialtovej,,,,way
 Ribegade,,,,way
-"Richard Boones Vej",,,,way
-"Richard Mortensens Vej",,,,way
 "Ridder Stigs Vej",,,,way
 Ridefogedvej,,,,way
-Rigagade,,,,way
 Rigensgade,,,,way
 Rindbyvej,,,,way
 Ringbanen,,,,way
@@ -1911,13 +1892,11 @@ Ringduestien,,,,way
 Ringergården,,,,way
 Ringertoften,,,,way
 Ringholmvej,,,,way
-Ringkøbinggade,,,,way
 Ringstedgade,,,,way
 Risagervej,,,,way
 Risbyholmvej,,,,way
 Rismosevej,,,,way
 Risvangen,,,,way
-"Robert Jacobsens Vej",,,,way
 Røddinggade,,,,way
 "Røde Mellemvej",,,,way
 Rødegård,,,,way
@@ -1954,10 +1933,8 @@ Rosenstykket,,,,way
 "Rosenvængets Hovedvej",,,,way
 "Rosenvængets Sideallé",,,,way
 Roshagevej,,,,way
-Roskildevej,,,,way
 Rossinisvej,,,,way
 Rostgaardsvej,,,,way
-Rostockgade,,,,way
 Rothesgade,,,,way
 Rovsingsgade,,,,way
 Rubikonvej,,,,way
@@ -2002,16 +1979,13 @@ Sankelmarksgade,,,,way
 "Sankt Jørgens Allé",,,,way
 "Sankt Kjelds Plads",,,,way
 "Sankt Peders Stræde",,,,way
-"Sankt Petersborg Plads",,,,way
 "Sankt Petri Passage",,,,way
-Sassnitzgade,,,,way
 Saxhøjvej,,,,way
 Saxtorphsvej,,,,way
 Scandiagade,,,,way
 Schacksgade,,,,way
 Scharlingsvej,,,,way
 Scherfigsvej,,,,way
-Schubertsvej,,,,way
 Sejlklubvej,,,,way
 Sejlstien,,,,way
 Selinevej,,,,way
@@ -2133,7 +2107,6 @@ Sorterendebroen,,,,way
 Sørupvej,,,,way
 Søstien,,,,way
 Søtorvet,,,,way
-Southamptongade,,,,way
 Spanagervej,,,,way
 Spangen,,,,way
 Spanteloftvej,,,,way
@@ -2153,7 +2126,6 @@ Stakkesund,,,,way
 Stakledet,,,,way
 Stampesgade,,,,way
 Statholdervej,,,,way
-Stavangergade,,,,way
 Stavnstrupvej,,,,way
 "Steen Billes Gade",,,,way
 Steenbergsvej,,,,way
@@ -2257,9 +2229,9 @@ Taffelæblevej,,,,way
 Tagensvej,,,,way
 Takkeladsvej,,,,way
 Takkelloftvej,,,,way
-Tallinngade,,,,way
 Tapperitorvet,,,,way
 Tårnblæservej,,,,way
+Tårnbykellegiet,,,,way
 Tårnholmsvej,,,,way
 Tårnhusstræde,,,,way
 Tartinisvej,,,,way
@@ -2277,7 +2249,6 @@ Teglværksgade,,,,way
 Telemarksgade,,,,way
 Terrasserne,,,,way
 Tersløsevej,,,,way
-"Thad Jones Vej",,,,way
 Theisvej,,,,way
 Theklavej,,,,way
 "Theodor Christensens Plads",,,,way
@@ -2296,7 +2267,6 @@ Thurebyholmvej,,,,way
 Thyregodsvej,,,,way
 Thyvej,,,,way
 Tibirkegade,,,,way
-Tietgensgade,,,,way
 Tikøbgade,,,,way
 "Tingbjerg Ås",,,,way
 Tinggården,,,,way
@@ -2351,16 +2321,12 @@ Tranevej,,,,way
 Trangravsvej,,,,way
 Trappegavl,,,,way
 "Traps Allé",,,,way
-Travemündegade,,,,way
 Trekløvervej,,,,way
 Trekroner,,,,way
 Trekronergade,,,,way
-Trelleborggade,,,,way
 Trepkasgade,,,,way
 "Trinitatis Kirkeplads",,,,way
 Trommesalen,,,,way
-"Trondhjems Plads",,,,way
-Trondhjemsgade,,,,way
 Tryggevældevej,,,,way
 "Tschernings Allé",,,,way
 "Tuborg Boulevard",,,,way
@@ -2411,7 +2377,6 @@ Vågestien,,,,way
 "Valborg Allé",,,,way
 "Valby Kirkevej",,,,way
 "Valby Langgade",,,,way
-"Valby Maskinfabriksvej",,,,way
 "Valby Tingsted",,,,way
 "Valby Torvegade",,,,way
 Valbygårdsvej,,,,way
@@ -2435,7 +2400,6 @@ Våningsvej,,,,way
 "Vanløse Byvej",,,,way
 "Vanløse Torv",,,,way
 Vanløsehøj,,,,way
-Vardegade,,,,way
 Vasbygade,,,,way
 Vatnavej,,,,way
 "Ved Amagerbanen",,,,way
@@ -2545,13 +2509,11 @@ Voldgården,,,,way
 Voldmestergade,,,,way
 Voldparken,,,,way
 Volosvej,,,,way
-Wagnersvej,,,,way
 Webersgade,,,,way
 Weidekampsgade,,,,way
 Weimargade,,,,way
 Wesselsgade,,,,way
 Westend,,,,way
-Weysesgade,,,,way
 Wibrandtsvej,,,,way
 Wiinbladsgade,,,,way
 "Wilders Bro",,,,way
