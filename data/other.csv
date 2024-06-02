@@ -30,6 +30,7 @@ Alperosevej,wikidata,,Q1341190,way
 Alsgade,wikidata,,Q165383,way
 "Amager Boulevard",wikidata,,Q210396,way
 "Amager Landevej",wikidata,,Q210396,way
+"Amager Strandvej",wikidata,,Q7835,way
 "Amagerbro Torv",wikidata,,Q3375590,way
 Amagerbrogade,wikidata,,Q3375590,way
 Amagerfælledvej,wikidata,,Q11957648,way
@@ -61,6 +62,7 @@ Athensvej,wikidata,,Q1524,way
 Australiensvej,wikidata,,Q408,way
 Badensgade,wikidata,,Q186320,way
 Bådsmandsstræde,wikidata,,Q303486,way
+Badstuestræde,wikidata,,Q125925223,way
 "Bag Elefanterne",wikidata,,Q5359320,way
 "Bag Søndermarken",wikidata,,Q7061127,way
 "Balders Plads",wikidata,,Q131658,way
@@ -580,6 +582,8 @@ Lygten,wikidata,,Q12325202,way
 Lynæsgade,wikidata,,Q16324095,way
 Lyneborggade,wikidata,,Q3920,way
 Lyngbyvej,wikidata,,Q2239,way
+Lyngholmvej,wikidata,,Q125924666,way
+Lyngvigvej,wikidata,,Q125924699;Q105668049,way
 Lyongade,wikidata,,Q456,way
 Lyrskovgade,wikidata,,Q557339,way
 Mælkebøtten,wikidata,,Q30024,way
@@ -1062,6 +1066,7 @@ Vigerslevvej,wikidata,,Q7928874,way
 Vikkevangen,wikidata,,Q147337,way
 Vildandegade,wikidata,,Q25348,way
 Vimmelskaftet,wikidata,,Q2662870,way
+Vindebrogade,wikidata,,Q12060368,way
 Vindruevej,wikidata,,Q10978,way
 Vingårdstræde,wikidata,,Q18948121,way
 Visbygade,wikidata,,Q54757,way
@@ -1104,7 +1109,7 @@ Alstedvej,,,,way
 Amager,,,,relation
 "Amager Motocross Klub",,,,way
 "Amager Strand Promenaden",,,,way
-"Amager Strandvej",,,,way
+"Amager Strandvej 130",,,,way
 "Amerika Plads",,,,way
 Amerikavej,,,,way
 Andestien,,,,way
@@ -1126,7 +1131,6 @@ Augustagade,,,,way
 "Axel Larsens Plads",,,,way
 Backersvej,,,,way
 Bådehavnsgade,,,,way
-Badstuestræde,,,,way
 Bækkeskovvej,,,,way
 Bærhaven,,,,way
 Bagerstræde,,,,way
@@ -1260,6 +1264,7 @@ Danstrupvej,,,,way
 "Det Genmodificerede Paradis",,,,way
 Dieselvej,,,,way
 Digevej,,,,way
+Dompapvej,,,,way
 Dønnerupvej,,,,way
 Dortheavej,,,,way
 Drechselsgade,,,,way
@@ -1538,6 +1543,7 @@ Judithsvej,,,,way
 Jydeholmen,,,,way
 Kæragervej,,,,way
 Kærholmen,,,,way
+Kærlighedsstien,,,,way
 Kærskiftevej,,,,way
 Kagsbro,,,,way
 Kagsløkke,,,,way
@@ -1680,8 +1686,6 @@ Lundsfrydvej,,,,way
 Lygtemagerstien,,,,way
 Lykkebovej,,,,way
 Lynettevej,,,,way
-Lyngholmvej,,,,way
-Lyngvigvej,,,,way
 Lysefjordsgade,,,,way
 "Lyshøj Allé",,,,way
 Lyshøjgårdsvej,,,,way
@@ -2185,7 +2189,6 @@ Vigerslevstræde,,,,way
 Vigøerne,,,,relation
 Viktoriagade,,,,way
 "Vilhelm Birkedals Vej",,,,way
-Vindebrogade,,,,way
 Vindingevej,,,,way
 Vindmøllevej,,,,way
 Vingegavl,,,,way
