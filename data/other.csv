@@ -339,7 +339,6 @@ Frederiksborgvej,wikidata,,Q226103,way
 Frederiksholmsbroen,wikidata,,Q11970043,way
 Frederiksstadsgade,wikidata,,Q21065,way
 Frederikssundsvej,wikidata,,Q3223801,way
-Frederikssundvej,wikidata,,Q3223801,way
 Freesiagangen,wikidata,,Q157392,way
 Frejasgade,wikidata,,Q1647325,way
 "Frue Plads",wikidata,,Q1451811,way
@@ -572,6 +571,7 @@ Jenagade,wikidata,,Q3150,way
 Jernæblevej,wikidata,,Q65194650,way
 "Jernbane Allé",wikidata,,Q12312788,way
 Jollevej,wikidata,,Q239617,way
+Jonshøj,wikidata,,Q124436713,way
 Jordbærvej,wikidata,,Q13158,way
 Jorisvej,wikidata,,Q14508321,way
 Jupitervej,wikidata,,Q4649,way
@@ -633,6 +633,7 @@ Klerkegade,wikidata,,Q2259532,way
 Klintevej,wikidata,,Q147852,way
 Klintholmvej,wikidata,,Q12322165,way
 Klitmøllervej,wikidata,,Q2103178,way
+"Klitrose Alle",wikidata,,Q158359,way
 Klokkestien,wikidata,,Q155802,way
 Klostermarksvej,wikidata,,Q124358364,way
 Klosterrisvej,wikidata,,Q23746122,way
@@ -883,6 +884,7 @@ Odensegade,wikidata,,Q25331,way
 Odinsgade,wikidata,,Q43610,way
 "Ofelia Plads",wikidata,,Q1800888,way
 Ølandsgade,wikidata,,Q239276,way
+Oldensti,wikidata,,Q1907811,way
 Oldermandsvej,wikidata,,Q3364526,way
 Oldfuxvej,wikidata,,Q10468682,way
 Olymposvej,wikidata,,Q80344,way
@@ -1079,7 +1081,6 @@ Siljangade,wikidata,,Q217430,way
 Silkeborggade,wikidata,,Q21180,way
 Silkehalegangen,wikidata,,Q26135,way
 Sionsgade,wikidata,,Q12335416,way
-"Sixtus Vej",wikidata,,Q124439202,way
 Sixtusvej,wikidata,,Q124439202,way
 Sjællandsbroen,wikidata,,Q25535,way
 Sjællandsgade,wikidata,,Q25535,way
@@ -1161,6 +1162,7 @@ Stærevej,wikidata,,Q25469,way
 Stavangergade,wikidata,,Q25416,way
 Stavnstrupvej,wikidata,,Q124457301,way
 Stefansgade,wikidata,,Q12334625,way
+Stendal,wikidata,,Q124436602,way
 Stenderupgade,wikidata,,Q12337102,way
 Stenkløvervej,wikidata,,Q161142,way
 Stenlillevej,wikidata,,Q603045,way
@@ -1473,6 +1475,7 @@ Borgskrivervej,,,,way
 Børskovvej,,,,way
 Borthigsgade,,,,way
 Botoftevej,,,,way
+Bradbænken,,,,way
 Bredelandsvej,,,,way
 Bredgade,,,,way
 "Bro 7A",,,,way
@@ -1876,7 +1879,6 @@ Nyholm,,,,relation
 Nyholmsbroen,,,,way
 Nytorv,,,,way
 Oldenborggade,,,,way
-Oldensti,,,,way
 "Ole Jørgensens Gade",,,,way
 Oliebladsgade,,,,way
 Oliehavnsbroen,,,,way
