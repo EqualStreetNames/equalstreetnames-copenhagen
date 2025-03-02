@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 "Amalie Skrams Allé",wikidata,F,Q291676,way
 "Andrea Brochmanns Gade",wikidata,F,Q19786807,way
+"Anna Johansens Gade",wikidata,F,Q62079485,way
 Antoinettevej,wikidata,F,Q124094718,way
 "Asta Nielsen Strædet",wikidata,F,Q232404,way
 Augustagade,wikidata,F,Q128112721,way
@@ -27,8 +28,8 @@ Dagmarsgade,wikidata,F,Q263412,way
 "Emma Gads Vej",wikidata,F,Q3425938,way
 Esthersvej,wikidata,F,Q732413,way
 "Etta Camerons Vej",wikidata,F,Q466396,way
-"Fanny Jensens Plads",wikidata,F,Q546589,way
 "Franciska Clausens Plads",wikidata,F,Q4943051,way
+"Gerda Louw Larsens Plads",wikidata,F,Q12313773,way
 "Gertrude Steins Vej",wikidata,F,Q188385,way
 "Grethe Ingmanns Vej",wikidata,F,Q1546095,way
 Gunhildsgade,wikidata,F,Q2887133,way
@@ -78,6 +79,7 @@ Thyrasgade,wikidata,F,Q242395,way
 "Tove Maës Vej",wikidata,F,Q438574,way
 Tovelillevej,wikidata,F,Q108718353,way
 "Veras Allé",wikidata,F,Q130312029,way
+"Viola Nørløvs Gade",wikidata,F,Q62081549,way
 "Virginia Woolfs Vej",wikidata,F,Q40909,way
 "A.C. Meyers Vænge",wikidata,M,Q12151355,way
 "A.F. Beyers Vej",wikidata,M,Q130478835,way
@@ -87,6 +89,7 @@ Tovelillevej,wikidata,F,Q108718353,way
 Aarestrupsvej,wikidata,M,Q350408,way
 Abildgaardsgade,wikidata,M,Q319854,way
 Absalonsgade,wikidata,M,Q313548,way
+Aggersborggade,wikidata,M,Q132726622,way
 Ahlefeldtsgade,wikidata,M,Q325350,way
 Ahlmannsgade,wikidata,M,Q5544132,way
 "Ahrenkildes Allé",wikidata,M,Q122852056,way
@@ -111,6 +114,7 @@ Allersgade,wikidata,M,Q122734006,way
 Axeltorv,wikidata,M,Q313548,way
 Backersvej,wikidata,M,Q130367378,way
 Baggesensgade,wikidata,M,Q215945,way
+Bangertsgade,wikidata,M,Q132726734,way
 Bardenflethsgade,wikidata,M,Q3363868,way
 Bechgaardsgade,wikidata,M,Q4994416,way
 Beethovensvej,wikidata,M,Q255,way
@@ -133,14 +137,15 @@ Bohrsgade,wikidata,M,Q7085,way
 Borgbjergsvej,wikidata,M,Q382414,way
 "Borgmester Christiansens Gade",wikidata,M,Q12185936,way
 "Borgmester Jensens Allé",wikidata,M,Q6179716,way
+Borthigsgade,wikidata,M,Q132726917,way
 "Borups Allé",wikidata,M,Q11986919,way
 "Borups Plads",wikidata,M,Q11986919,way
 Boyesgade,wikidata,M,Q1337278,way
 Bredahlsvej,wikidata,M,Q1080387,way
 Brobergsgade,wikidata,M,Q12305829,way
+Brolæggerstræde,wikidata,M,Q132577731,way
 Brorsonsgade,wikidata,M,Q348003,way
 "Bryggernes Plads",wikidata,M,Q719753;Q2567053,way
-Bülowsvej,wikidata,M,Q12312587,way
 Burmeistersgade,wikidata,M,Q5590461,way
 "Buster Larsens Vej",wikidata,M,Q1785294,way
 "C. J. Brandts Vej",wikidata,M,Q3428405,way
@@ -373,6 +378,7 @@ Mansasvej,wikidata,M,Q5975245,way
 "Melchiors Plads",wikidata,M,Q12327622,way
 Meldahlsgade,wikidata,M,Q3045120,way
 "Michael Strunges Vej",wikidata,M,Q3357187,way
+"Mikkel Bryggers Gade",wikidata,M,Q132577428,way
 "Mikkel Skovs Allé",wikidata,M,Q108476158,way
 "Mikkel Vibes Gade",wikidata,M,Q12327200,way
 Mitchellsgade,wikidata,M,Q125597289,way
@@ -396,9 +402,11 @@ Nyropsgade,wikidata,M,Q4572758,way
 Oehlenschlægersgade,wikidata,M,Q168356,way
 Offenbachsvej,wikidata,M,Q41555,way
 "Ole Borchs Vej",wikidata,M,Q2525149,way
+"Ole Jørgensens Gade",wikidata,M,Q132732863,way
 "Ole Suhrs Gade",wikidata,M,Q12330019,way
 "Olfert Fischers Gade",wikidata,M,Q3430341,way
 "Olof Palmes Gade",wikidata,M,Q53713,way
+Olufsvej,wikidata,M,Q132726550,way
 "Onkel Dannys Plads",wikidata,M,Q1159183,way
 "Oscar Pettifords Vej",wikidata,M,Q497183,way
 "Otto Baches Alle",wikidata,M,Q1807597,way
@@ -415,6 +423,7 @@ Offenbachsvej,wikidata,M,Q41555,way
 Overskousvej,wikidata,M,Q6031489,way
 "P. Knudsens Gade",wikidata,M,Q663096,way
 "P. Løwenørns Vej",wikidata,M,Q6151452,way
+"P.D. Løvs Allé",wikidata,M,Q132727066,way
 Palnatokesgade,wikidata,M,Q2450837,way
 Panumsvej,wikidata,M,Q369314,way
 Pasteursvej,wikidata,M,Q529,way
@@ -478,6 +487,7 @@ Sibeliusgade,wikidata,M,Q45682,way
 "Skipper Clements Allé",wikidata,M,Q1372062,way
 "Skjalm Hvides Gade",wikidata,M,Q953640,way
 Skovgaardsgade,wikidata,M,Q2761358,way
+Snaregade,wikidata,M,Q132477147,way
 Snorresgade,wikidata,M,Q102323,way
 "Søren Kierkegaards Plads",wikidata,M,Q6512,way
 "Søren Norbys Allé",wikidata,M,Q321735,way
@@ -490,6 +500,7 @@ Stampesgade,wikidata,M,Q4581768,way
 Steenbergsvej,wikidata,M,Q38773388,way
 "Steins Plads",wikidata,M,Q6188255,way
 Steinsvej,wikidata,M,Q6188255,way
+Stemannsgade,wikidata,M,Q2606890,way
 Stenosgade,wikidata,M,Q151722,way
 Stoltenbergsgade,wikidata,M,Q125596900,way
 Stradellasvej,wikidata,M,Q314765,way
@@ -529,6 +540,7 @@ Tuxensvej,wikidata,M,Q12324896,way
 "Ulrik Birchs Allé",wikidata,M,Q65230146,way
 Urbansgade,wikidata,M,Q171520,way
 "V.A. Borgens Vej",wikidata,M,Q12341014,way
+Værnedamsvej,wikidata,M,Q132727187,way
 "Valdemar Holmers Gade",wikidata,M,Q5811289,way
 Valdemarsgade,wikidata,M,Q297194,way
 Valkendorfsgade,wikidata,M,Q1084412,way
