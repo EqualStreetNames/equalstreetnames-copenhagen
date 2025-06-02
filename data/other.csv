@@ -71,7 +71,7 @@ Asnæsgade,wikidata,,Q12302335,way
 Assensgade,wikidata,,Q741067,way
 Astersgangen,wikidata,,Q517130,way
 Astersvej,wikidata,,Q517130,way
-Astrupvej,wikidata,,Q12302389,way
+Astrupvej,wikidata,,Q12302390,way
 Athensvej,wikidata,,Q1524,way
 Australiensvej,wikidata,,Q408,way
 Åvendingen,wikidata,,Q11058547,way
@@ -285,6 +285,7 @@ Enebærvej,wikidata,,Q3251025,way
 Energiporten,wikidata,,Q11379,way
 Engblommevej,wikidata,,Q161588,way
 Engelholmvej,wikidata,,Q12310119,way
+"Enghave Passage",wikidata,,Q12310142,way
 "Enghave Plads",wikidata,,Q12310142,way
 Enghavevej,wikidata,,Q6429191,way
 Englandsvej,wikidata,,Q21,way
@@ -573,6 +574,7 @@ Jenagade,wikidata,,Q3150,way
 Jernæblevej,wikidata,,Q65194650,way
 "Jernbane Allé",wikidata,,Q12312788,way
 Jollevej,wikidata,,Q239617,way
+Jonshøj,wikidata,,Q124436713,way
 Jordbærvej,wikidata,,Q13158,way
 Jorisvej,wikidata,,Q14508321,way
 Jupitervej,wikidata,,Q4649,way
@@ -635,6 +637,7 @@ Klerkegade,wikidata,,Q2259532,way
 Klintevej,wikidata,,Q147852,way
 Klintholmvej,wikidata,,Q12322165,way
 Klitmøllervej,wikidata,,Q2103178,way
+"Klitrose Alle",wikidata,,Q158359,way
 Klokkestien,wikidata,,Q155802,way
 Klostermarksvej,wikidata,,Q124358364,way
 Klosterrisvej,wikidata,,Q23746122,way
@@ -1167,6 +1170,7 @@ Stærevej,wikidata,,Q25469,way
 Stavangergade,wikidata,,Q25416,way
 Stavnstrupvej,wikidata,,Q124457301,way
 Stefansgade,wikidata,,Q12334625,way
+Stendal,wikidata,,Q124436602,way
 Stenderupgade,wikidata,,Q12337102,way
 Stenkløvervej,wikidata,,Q161142,way
 Stenlillevej,wikidata,,Q603045,way
@@ -1533,7 +1537,6 @@ Dyssevænget,,,,way
 Efterslægtsvej,,,,way
 Egebæksvej,,,,way
 Ellemosevej,,,,way
-Elværksvej,,,,way
 Elvergårdsvej,,,,way
 "Emdrup Banke",,,,way
 "Emdrup Engvej",,,,way
@@ -1544,7 +1547,6 @@ Emdrupgårdsvej,,,,way
 Enemærket,,,,way
 "Engdals Allé",,,,way
 Engdraget,,,,way
-"Enghave Passage",,,,way
 Engholmen,,,,way
 Englodden,,,,way
 Engskiftevej,,,,way
@@ -1677,6 +1679,7 @@ Hestehaven,,,,way
 "Hf. Sundbo",,,,way
 "Hf. Sydhavn",,,,way
 "Hf. Tingbjerg Pensionisthaver",,,,way
+"Hf. Vestereng",,,,way
 "Hf. Zenia-Lindevang",,,,way
 Hjørnelodden,,,,way
 "Hjortholms Allé",,,,way
@@ -1711,7 +1714,6 @@ Jernbanegade,,,,way
 Jydeholmen,,,,way
 Kæragervej,,,,way
 Kærholmen,,,,way
-Kærlighedsstien,,,,way
 Kærskiftevej,,,,way
 Kagsbro,,,,way
 Kagsløkke,,,,way
@@ -1770,7 +1772,6 @@ Landlystvej,,,,way
 Langagervej,,,,way
 Langdraget,,,,way
 Langebro,,,,way
-Langeliniekaj,,,,way
 Langesund,,,,way
 Langhusvej,,,,way
 Langkærsti,,,,way
@@ -1888,6 +1889,7 @@ Overdrevsvej,,,,way
 Pakhusvej,,,,way
 Pakkerivej,,,,way
 Palægade,,,,way
+Papirøen,,,,way
 Paradeplads,,,,way
 Parkbo,,,,way
 Parkstien,,,,way
@@ -1939,6 +1941,7 @@ Sakskøbingvej,,,,way
 Sandhøjen,,,,way
 Sandhusvej,,,,way
 Sandkaj,,,,way
+Saugværkspladsen,,,,way
 Scenen,,,,way
 Sejlklubvej,,,,way
 Sejlstien,,,,way
@@ -2083,6 +2086,7 @@ Tværvangen,,,,way
 Uggerløsevej,,,,way
 "Urbans Plads",,,,way
 Vængeleddet,,,,way
+Værftsbroen,,,,way
 Værkstedvej,,,,way
 Vågestien,,,,way
 "Valby Tingsted",,,,way
