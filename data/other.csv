@@ -87,6 +87,7 @@ Baldersgade,wikidata,,Q131658,way
 Ballumgade,wikidata,,Q12302818,way
 Baltikavej,wikidata,,Q545,way
 Bandholmvej,wikidata,,Q2796480,way
+Banebrinken,wikidata,,Q2098330,way
 Banegårdspladsen,wikidata,,Q1495052,way
 "Bangsbo Plads",wikidata,,Q12302851,way
 Bangsbovej,wikidata,,Q12302851,way
@@ -114,6 +115,7 @@ Birkegade,wikidata,,Q25243,way
 Birkholmvej,wikidata,,Q12325428,way
 Birmavej,wikidata,,Q836,way
 Bisiddervej,wikidata,,Q335757,way
+"Bispebjerg Parkallé",wikidata,,Q339420,way
 Bispebjergvej,wikidata,,Q339420,way
 Bispetorvet,wikidata,,Q4918392,way
 Bispevej,wikidata,,Q29182,way
@@ -162,6 +164,7 @@ Brammingegade,wikidata,,Q12304252,way
 Bramslykkevej,wikidata,,Q12304255,way
 Bratskovvej,wikidata,,Q12304287,way
 Bredegrund,wikidata,,Q19787826,way
+Bredelandsvej,wikidata,,Q135518891,way
 Bregnerødgade,wikidata,,Q115486607,way
 "Breidablik Allé",wikidata,,Q905546,way
 Bremensgade,wikidata,,Q1209,way
@@ -278,6 +281,8 @@ Elsdyrsgade,wikidata,,Q35517,way
 Elselillevej,wikidata,,Q124439139,way
 Elstarvej,wikidata,,Q486412,way
 Emblasgade,wikidata,,Q10272315,way
+"Emdrup Banke",wikidata,,Q12309926,way
+"Emdrup Huse",wikidata,,Q12309926,way
 "Emdrup Torv",wikidata,,Q12309926,way
 "Emdrup Vænge",wikidata,,Q12309926,way
 Emdrupvej,wikidata,,Q12309926,way
@@ -921,6 +926,7 @@ Overskæringen,wikidata,,Q171448,way
 "På Bjerget",wikidata,,Q2180740,way
 Paduavej,wikidata,,Q617,way
 Pæonvej,wikidata,,Q147105,way
+Palægade,wikidata,,Q7796923,way
 "Palæstinas Plads",wikidata,,Q23792,way
 Palermovej,wikidata,,Q2656,way
 Pallesvej,wikidata,,Q12330859,way
@@ -1135,6 +1141,7 @@ Smørumvej,wikidata,,Q12001608,way
 Smyrnavej,wikidata,,Q1379299,way
 Sneppestien,wikidata,,Q26626,way
 Sneppevej,wikidata,,Q26626,way
+"Søborghus Park",wikidata,,Q135519172,way
 Sognefjordsgade,wikidata,,Q208495,way
 Sokkelundsvej,wikidata,,Q12336320,way
 Søkrogen,wikidata,,Q12307086,way
@@ -1233,6 +1240,7 @@ Tallinngade,wikidata,,Q1770,way
 Tårnholmsvej,wikidata,,Q16324847,way
 Tåsingegade,wikidata,,Q402692,way
 Tåstrupvej,wikidata,,Q20999,way
+Teglgårdstræde,wikidata,,Q198632,way
 "Teglholm Allé",wikidata,,Q3375964,way
 "Teglholm Tværvej",wikidata,,Q3375964,way
 "Teglholmens Østkaj",wikidata,,Q3375964,way
@@ -1354,11 +1362,13 @@ Vatnavej,wikidata,,Q179734,way
 "Ved Langebro",wikidata,,Q944453,way
 "Ved Linden",wikidata,,Q125593822,way
 "Ved Mønten",wikidata,,Q7374497,way
+"Ved Norgesporten",wikidata,,Q135517991,way
 "Ved Skansen",wikidata,,Q130320437,way
 "Ved Slusen",wikidata,,Q16900271,way
 "Ved Stadsgraven",wikidata,,Q3365200,way
 "Ved Stigbordene",wikidata,,Q610559,way
 "Ved Vesterport",wikidata,,Q2039347,way
+"Ved Vigen",wikidata,,Q3375626,way
 Vedbækgade,wikidata,,Q1896694,way
 Vejlegade,wikidata,,Q27116,way
 Vejrøgade,wikidata,,Q174379,way
@@ -1443,7 +1453,6 @@ Bagerstræde,,,,way
 Bakkekammen,,,,way
 Bakkeledet,,,,way
 Bakkevej,,,,way
-Banebrinken,,,,way
 Banefløjen,,,,way
 Banevingen,,,,way
 Banevolden,,,,way
@@ -1457,7 +1466,6 @@ Birkagervej,,,,way
 Birkedamsvej,,,,way
 Birketinget,,,,way
 "Bispebjerg Bakke",,,,way
-"Bispebjerg Parkallé",,,,way
 Bispeengbuen,,,,way
 Bispeengen,,,,way
 Bispeparken,,,,way
@@ -1479,7 +1487,6 @@ Borgskrivervej,,,,way
 Børskovvej,,,,way
 Botoftevej,,,,way
 Bradbænken,,,,way
-Bredelandsvej,,,,way
 Bredgade,,,,way
 "Bro 7A",,,,way
 "Bro 7B",,,,way
@@ -1538,9 +1545,7 @@ Efterslægtsvej,,,,way
 Egebæksvej,,,,way
 Ellemosevej,,,,way
 Elvergårdsvej,,,,way
-"Emdrup Banke",,,,way
 "Emdrup Engvej",,,,way
-"Emdrup Huse",,,,way
 "Emdrup Kærvej",,,,way
 "Emdrup Mosevej",,,,way
 Emdrupgårdsvej,,,,way
@@ -1889,7 +1894,6 @@ Overdrevsvej,,,,way
 "Overgaden Oven Vandet",,,,way
 Pakhusvej,,,,way
 Pakkerivej,,,,way
-Palægade,,,,way
 Papirøen,,,,way
 Paradeplads,,,,way
 Parkbo,,,,way
@@ -1972,7 +1976,6 @@ Smedestræde,,,,way
 "Smedetoftens Plads",,,,way
 Snertingevej,,,,way
 Snorrebroen,,,,way
-"Søborghus Park",,,,way
 Sofienhøjvej,,,,way
 Søflygade,,,,way
 Soldalen,,,,way
@@ -2043,7 +2046,6 @@ Tapperitorvet,,,,way
 Tårnblæservej,,,,way
 Tårnhusstræde,,,,way
 "Tåsinge Plads",,,,way
-Teglgårdstræde,,,,way
 Teglstrupvej,,,,way
 Teglværksbroen,,,,way
 Teglværksgade,,,,way
@@ -2103,11 +2105,9 @@ Vanløsehøj,,,,way
 "Ved Hegnet",,,,way
 "Ved Klosteret",,,,way
 "Ved Kongeporten",,,,way
-"Ved Norgesporten",,,,way
 "Ved Sønderport",,,,way
 "Ved Sporsløjfen",,,,way
 "Ved Stranden",,,,way
-"Ved Vigen",,,,way
 "Vej 10",,,,way
 "Vej 4",,,,way
 "Vej 5",,,,way
