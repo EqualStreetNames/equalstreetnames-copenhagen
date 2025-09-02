@@ -89,6 +89,7 @@ Baltikavej,wikidata,,Q545,way
 Bandholmvej,wikidata,,Q2796480,way
 Banebrinken,wikidata,,Q2098330,way
 Banegårdspladsen,wikidata,,Q1495052,way
+Banevingen,wikidata,,Q2198532,way
 "Bangsbo Plads",wikidata,,Q12302851,way
 Bangsbovej,wikidata,,Q12302851,way
 Bartholinsgade,wikidata,,Q10426684,way
@@ -302,6 +303,7 @@ Esplanaden,wikidata,,Q88372,way
 Esromgade,wikidata,,Q2006504,way
 Estlandsgade,wikidata,,Q191,way
 Etonvej,wikidata,,Q617407,way
+Evanstonevej,wikidata,,Q135800338,way
 Fåborggade,wikidata,,Q3547421,way
 Fælledpromenaden,wikidata,,Q11957648,way
 Fafnersgade,wikidata,,Q745315,way
@@ -364,6 +366,7 @@ Galionsvej,wikidata,,Q729329,way
 "Gammel Jernbanevej",wikidata,,Q2305499,way
 "Gammel Køge Landevej",wikidata,,Q21184,way
 "Gammel Mønt",wikidata,,Q1894248,way
+"Gammel Vartov Vej",wikidata,,Q135800443,way
 Gartnergade,wikidata,,Q758780,way
 Gåsebækstien,wikidata,,Q130358088,way
 Gåsebæksvej,wikidata,,Q130358088,way
@@ -410,11 +413,13 @@ Grenågade,wikidata,,Q3619316,way
 Grevingevej,wikidata,,Q2582367,way
 Gribskovvej,wikidata,,Q10508756,way
 Grønjordskollegiet,wikidata,,Q5612881,way
+"Grønnemose Alle",wikidata,,Q135904124,way
 Grønttorvsparken,wikidata,,Q130349482,relation
 Gudenåvej,wikidata,,Q739513,way
 Guldagervej,wikidata,,Q2633724,way
 "Guldregn Alle",wikidata,,Q147184,way
 Guldstjernevej,wikidata,,Q157564,way
+Gulkløvervej,wikidata,,Q157334,way
 Gullandsgade,wikidata,,Q1027830,way
 Gullfossgade,wikidata,,Q38519,way
 Gunløgsgade,wikidata,,Q1361715,way
@@ -438,6 +443,7 @@ Hamletsgade,wikidata,,Q2447542,way
 Hammerensgade,wikidata,,Q5645686,way
 Hammershusgade,wikidata,,Q700384,way
 Hannovergade,wikidata,,Q164079,way
+Hansstedvej,wikidata,,Q135902923,way
 Hanstholmvej,wikidata,,Q1026874,way
 Haraldstedvej,wikidata,,Q10517984,way
 Harboørevej,wikidata,,Q12315699,way
@@ -454,6 +460,7 @@ Havkajakvej,wikidata,,Q115467,way
 Havnegade,wikidata,,Q12318218,way
 Havneholmen,wikidata,,Q12315853,way
 Havrevej,wikidata,,Q146760,way
+Havsgårdsvej,wikidata,,Q135798935,way
 Hedebygade,wikidata,,Q165414,way
 Heilsgade,wikidata,,Q2348156,way
 Heimdalsgade,wikidata,,Q131196,way
@@ -597,7 +604,6 @@ Kalkbrænderihavnsgade,wikidata,,Q12321122,way
 Kaløvej,wikidata,,Q12321165,way
 "Kalvebod Bølge",wikidata,,Q23746942,way
 "Kalvebod Brygge",wikidata,,Q23746942,way
-Kalvebodbroen,wikidata,,Q23746942,way
 Kanadavej,wikidata,,Q16,way
 Kanonvej,wikidata,,Q81103,way
 Kansasvej,wikidata,,Q1558,way
@@ -778,6 +784,7 @@ Magdelonevej,wikidata,,Q10468682,way
 Mågestien,wikidata,,Q27589,way
 Mågevej,wikidata,,Q27589,way
 Magistervej,wikidata,,Q183816,way
+"Maglegårds Alle",wikidata,,Q135904157,way
 Magnoliavej,wikidata,,Q157017,way
 Magstræde,wikidata,,Q7813355,way
 Majrosevej,wikidata,,Q162787,way
@@ -1200,6 +1207,7 @@ Stormgade,wikidata,,Q2567011,way
 Støvringvej,wikidata,,Q12337637,way
 Strandgade,wikidata,,Q93352,way
 Stratfordvej,wikidata,,Q464955,way
+Strødamvej,wikidata,,Q135799199;Q61062679,way
 Strømmen,wikidata,,Q130358088;Q12329162,way
 Strynøgade,wikidata,,Q2003643,way
 Stubmøllevej,wikidata,,Q57409302,way
@@ -1216,6 +1224,7 @@ Sundparken,wikidata,,Q104662,way
 Svanegade,wikidata,,Q34384,way
 Svanemøllebro,wikidata,,Q12337848,way
 Svanemøllevej,wikidata,,Q12337848,way
+Svanevænget,wikidata,,Q108830618,way
 Svanevej,wikidata,,Q34384,way
 Svankærvej,wikidata,,Q122877639,way
 "Svend Dyrings Vej",wikidata,,Q42196131,way
@@ -1290,6 +1299,7 @@ Tovværkgade,wikidata,,Q31029,way
 Tranevej,wikidata,,Q4764,way
 Trangravsvej,wikidata,,Q23754086,way
 Travemündegade,wikidata,,Q321792,way
+Trekløvervej,wikidata,,Q101538,way
 Trekroner,wikidata,,Q1126084,way
 Trekronergade,wikidata,,Q12304494,way
 Trelleborggade,wikidata,,Q26943,way
@@ -1365,6 +1375,7 @@ Vatnavej,wikidata,,Q179734,way
 "Ved Norgesporten",wikidata,,Q135517991,way
 "Ved Skansen",wikidata,,Q130320437,way
 "Ved Slusen",wikidata,,Q16900271,way
+"Ved Sporsløjfen",wikidata,,Q1810737,way
 "Ved Stadsgraven",wikidata,,Q3365200,way
 "Ved Stigbordene",wikidata,,Q610559,way
 "Ved Vesterport",wikidata,,Q2039347,way
@@ -1454,7 +1465,6 @@ Bakkekammen,,,,way
 Bakkeledet,,,,way
 Bakkevej,,,,way
 Banefløjen,,,,way
-Banevingen,,,,way
 Banevolden,,,,way
 "Bavnehøj Allé",,,,way
 Bavnevangen,,,,way
@@ -1505,13 +1515,11 @@ Byparken,,,,way
 Byporten,,,,way
 Bytinget,,,,way
 Byvangen,,,,way
-"C.J. Frandsens Vej",,,,way
 "Carl Madsens Plads",,,,way
 Carlsbergviadukten,,,,way
 Cedergangen,,,,way
 Centerparken,,,,way
 Centrumforbindelsen,,,,way
-"Christian Langes Plads",,,,way
 Cirkelbroen,,,,way
 Cylindervej,,,,way
 Dæmningen,,,,way
@@ -1562,7 +1570,6 @@ Engvej,,,,way
 Eskadrevej,,,,way
 Eskildstrupvej,,,,way
 Eskjærvej,,,,way
-Evanstonevej,,,,way
 Fabrikmestervej,,,,way
 Fabriksområdet,,,,way
 Fadet,,,,way
@@ -1609,7 +1616,6 @@ Gærdebred,,,,way
 "Gammel Kalkbrænderi Vej",,,,way
 "Gammel Kongevej",,,,way
 "Gammel Strand",,,,way
-"Gammel Vartov Vej",,,,way
 Gammelgang,,,,way
 Gammeltorv,,,,way
 Gammelvagt,,,,way
@@ -1640,14 +1646,12 @@ Grønløkkevej,,,,way
 Grønnegade,,,,way
 "Grønnehave Allé",,,,way
 Grønnehøj,,,,way
-"Grønnemose Alle",,,,way
 "Grønnemose Allé",,,,way
 Grønningen,,,,way
 Grønrisvej,,,,way
 Grønvangen,,,,way
 Grostedet,,,,way
 Grysgårdsvej,,,,way
-Gulkløvervej,,,,way
 "Håbets Allé",,,,way
 Hækkevold,,,,way
 Haldagervej,,,,way
@@ -1656,7 +1660,6 @@ Hammelstrupvej,,,,way
 Hampeland,,,,way
 Håndværkerhaven,,,,way
 Hanebred,,,,way
-Hansstedvej,,,,way
 Harespringet,,,,way
 Harrestrupvang,,,,way
 Havebo,,,,way
@@ -1667,7 +1670,6 @@ Havebo,,,,way
 "Haveforeningen Husumhave",,,,way
 "Haveforeningen Prøvestenen",,,,way
 Havekrogen,,,,way
-Havsgårdsvej,,,,way
 Hegningen,,,,way
 Hegnshusene,,,,way
 Helleborg,,,,way
@@ -1809,7 +1811,6 @@ Lundsfrydvej,,,,way
 Lykkebovej,,,,way
 "Lyshøj Allé",,,,way
 Mælkevejen,,,,way
-"Maglegårds Alle",,,,way
 Majporten,,,,way
 Malttorvet,,,,way
 "Margrethe Nørlund Bohrs Plads",,,,way
@@ -1993,7 +1994,6 @@ Sønderkær,,,,way
 "Søndre Allé",,,,way
 Sonnerupvej,,,,way
 "Søren Kierkegårds Plads",,,,way
-Sorterendebroen,,,,way
 Sørupvej,,,,way
 Søstien,,,,way
 Spangen,,,,way
@@ -2023,7 +2023,6 @@ Strandpromenaden,,,,way
 Strandtorvet,,,,way
 Strandvænget,,,,way
 Strandvejen,,,,way
-Strødamvej,,,,way
 Stubbevangen,,,,way
 Stubkaj,,,,way
 "Sundby Parkvej",,,,way
@@ -2031,9 +2030,7 @@ Sundbygårdsvej,,,,way
 Sundkaj,,,,way
 Surferstien,,,,way
 Sværtegade,,,,way
-Svaneknoppen,,,,way
 Svanestien,,,,way
-Svanevænget,,,,way
 Svineryggen,,,,way
 Svinget,,,,way
 Sydbanestien,,,,way
@@ -2076,7 +2073,6 @@ Trampesti,,,,way
 Tranehavegård,,,,way
 Tranehavevej,,,,way
 Trappegavl,,,,way
-Trekløvervej,,,,way
 "Trinitatis Kirkeplads",,,,way
 Trommesalen,,,,way
 "Tuborg Parkvej",,,,way
@@ -2106,7 +2102,6 @@ Vanløsehøj,,,,way
 "Ved Klosteret",,,,way
 "Ved Kongeporten",,,,way
 "Ved Sønderport",,,,way
-"Ved Sporsløjfen",,,,way
 "Ved Stranden",,,,way
 "Vej 10",,,,way
 "Vej 4",,,,way
