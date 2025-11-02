@@ -412,6 +412,7 @@ Greisvej,wikidata,-,Q37477363,way
 Grenågade,wikidata,-,Q3619316,way
 Grevingevej,wikidata,-,Q2582367,way
 Gribskovvej,wikidata,-,Q10508756,way
+"Grøndals Parkvej",wikidata,-,Q28167845,way
 Grønjordskollegiet,wikidata,-,Q5612881,way
 "Grønnemose Alle",wikidata,-,Q135904124,way
 Grønttorvsparken,wikidata,-,Q130349482,relation
@@ -1106,6 +1107,7 @@ Sixtusvej,wikidata,-,Q124439202,way
 Sjælland,wikidata,-,Q25587,relation
 Sjællandsbroen,wikidata,-,Q25535,way
 Sjællandsgade,wikidata,-,Q25535,way
+"Sjælør Boulevard",wikidata,-,Q136451212,way
 Skanderborggade,wikidata,-,Q503379,way
 Skånegade,wikidata,-,Q180756,way
 Skansebjerg,wikidata,-,Q18647190,way
@@ -1206,7 +1208,9 @@ Stolemagerstien,wikidata,-,Q3306125,way
 Storegårdsvej,wikidata,-,Q130319625,way
 Storkebakken,wikidata,-,Q28507,way
 Stormgade,wikidata,-,Q2567011,way
+"Støvnæs Allé",wikidata,-,Q12336320,way
 Støvringvej,wikidata,-,Q12337637,way
+Strandboulevarden,wikidata,-,Q21711493,way
 Strandgade,wikidata,-,Q93352,way
 Stratfordvej,wikidata,-,Q464955,way
 Strødamvej,wikidata,-,Q135799199;Q61062679,way
@@ -1397,6 +1401,7 @@ Veronavej,wikidata,-,Q2028,way
 "Vester Voldgade",wikidata,-,Q1478595,way
 "Vesterbro Torv",wikidata,-,Q521187,way
 Vesterbrogade,wikidata,-,Q521187,way
+Vestergade,wikidata,-,Q3432909,way
 Vesterhavsvej,wikidata,-,Q1693,way
 Vestervigvej,wikidata,-,Q30118497,way
 Vestmannagade,wikidata,-,Q608352,way
@@ -1435,6 +1440,7 @@ Wittenberggade,wikidata,-,Q6837,way
 X-Vej,wikidata,-,Q9968,way
 Ydunsgade,wikidata,-,Q204691,way
 Njalsgade,wikidata,?,Q2642621;Q844119,way
+Rantzausgade,wikidata,?,Q14523366;Q66333,way
 "Alva Myrdals Plads",wikidata,F,Q152437,way
 "Amalie Skrams Allé",wikidata,F,Q291676,way
 "Andrea Brochmanns Gade",wikidata,F,Q19786807,way
@@ -1900,7 +1906,6 @@ Pasteursvej,wikidata,M,Q529,way
 "Prins Jørgens Gård",wikidata,M,Q317499,way
 Puggaardsgade,wikidata,M,Q12315518,way
 Ramsingsvej,wikidata,M,Q12314881,way
-Rantzausgade,wikidata,M,Q66333,way
 "Rasmus Rasks Vej",wikidata,M,Q310958,way
 Rektorparken,wikidata,M,Q5788383,way
 Rentemestervej,wikidata,M,Q2688918,way
@@ -1910,6 +1915,7 @@ Reverdilsgade,wikidata,M,Q3378212,way
 "Richard Mortensens Vej",wikidata,M,Q392816,way
 "Robert Jacobsens Vej",wikidata,M,Q701078,way
 Rømersgade,wikidata,M,Q160187,way
+Rønningsvej,wikidata,M,Q12312702,way
 "Rosenørns Allé",wikidata,M,Q12310502,way
 Rossinisvej,wikidata,M,Q9726,way
 Rostgaardsvej,wikidata,M,Q37829583,way
