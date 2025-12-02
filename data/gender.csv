@@ -247,6 +247,7 @@ Delfingade,wikidata,-,Q215760,way
 Delosvej,wikidata,-,Q173148,way
 Derbyvej,wikidata,-,Q43475,way
 Dirchsvej,wikidata,-,Q122477371,way
+Dompapvej,wikidata,-,Q25382,way
 Donaugade,wikidata,-,Q1653,way
 Dønnerupvej,wikidata,-,Q12309174,way
 Dovregade,wikidata,-,Q2100974,way
@@ -367,6 +368,7 @@ Galionsvej,wikidata,-,Q729329,way
 "Gammel Køge Landevej",wikidata,-,Q21184,way
 "Gammel Mønt",wikidata,-,Q1894248,way
 "Gammel Vartov Vej",wikidata,-,Q135800443,way
+Gårdfæstevej,wikidata,-,Q16323603,way
 Gartnergade,wikidata,-,Q758780,way
 Gåsebækstien,wikidata,-,Q130358088,way
 Gåsebæksvej,wikidata,-,Q130358088,way
@@ -463,6 +465,7 @@ Havneholmen,wikidata,-,Q12315853,way
 Havrevej,wikidata,-,Q146760,way
 Havsgårdsvej,wikidata,-,Q135798935,way
 Hedebygade,wikidata,-,Q165414,way
+Hegningen,wikidata,-,Q148571,way
 Heilsgade,wikidata,-,Q2348156,way
 Heimdalsgade,wikidata,-,Q131196,way
 Hejrevej,wikidata,-,Q18789,way
@@ -531,6 +534,7 @@ Hørsholmsgade,wikidata,-,Q20835,way
 Høsterkøbgade,wikidata,-,Q12317850,way
 Høstgildevej,wikidata,-,Q2304773,way
 "Hothers Plads",wikidata,-,Q204900,way
+Hovmålvej,wikidata,-,Q466259,way
 Hovmestervej,wikidata,-,Q609016,way
 "Hulgårds Plads",wikidata,-,Q82085041,way
 Hulgårdsvej,wikidata,-,Q130470596,way
@@ -574,7 +578,7 @@ Italiensvej,wikidata,-,Q38,way
 Jægergade,wikidata,-,Q1714828,way
 Jægersborggade,wikidata,-,Q12320681,way
 Jægersprisvej,wikidata,-,Q852156,way
-Jagtvej,wikidata,-,Q1714967,way
+Jagtvej,wikidata,-,Q14523366;Q1714967,way
 "James Grievevej",wikidata,-,Q492928,way
 Jansvej,wikidata,-,Q12173670,way
 Japanvej,wikidata,-,Q17,way
@@ -680,6 +684,7 @@ Korfuvej,wikidata,-,Q121378,way
 Korinthvej,wikidata,-,Q103011,way
 Kornblomstvej,wikidata,-,Q156921,way
 Kornerupvej,wikidata,-,Q97099551,way
+Kornskyldvej,wikidata,-,Q184664,way
 Korsikavej,wikidata,-,Q14112,way
 Korsørgade,wikidata,-,Q1784816,way
 Kortstilkvej,wikidata,-,Q3001478,way
@@ -707,6 +712,7 @@ Lærdalsgade,wikidata,-,Q488975,way
 Lærkevej,wikidata,-,Q29858,way
 Laksegade,wikidata,-,Q188879,way
 Landfogedvej,wikidata,-,Q16419745,way
+Landgildevej,wikidata,-,Q4567142,way
 Landgreven,wikidata,-,Q128206855,way
 Landsdommervej,wikidata,-,Q12323666,way
 Landskronagade,wikidata,-,Q54352,way
@@ -1008,6 +1014,7 @@ Regitsevej,wikidata,-,Q10654939,way
 Regnbuepladsen,wikidata,-,Q51401,way
 Reinettevej,wikidata,-,Q2299367,way
 Rejsbygade,wikidata,-,Q2657763,way
+Remisevej,wikidata,-,Q137049003,way
 Retortvej,wikidata,-,Q12343671,way
 Reykjaviksgade,wikidata,-,Q1764,way
 Rialtovej,wikidata,-,Q271178,way
@@ -1126,6 +1133,7 @@ Skotterupgade,wikidata,-,Q12335773,way
 Skoubogade,wikidata,-,Q7500021,way
 "Skovbogårds Allé",wikidata,-,Q130349340,way
 Skovduestien,wikidata,-,Q26026,way
+Skovharevej,wikidata,-,Q26838,way
 Skovløbervej,wikidata,-,Q67183094,way
 Skovstjernevej,wikidata,-,Q158860,way
 Skrivergangen,wikidata,-,Q11962753,way
@@ -1220,6 +1228,7 @@ Stubmøllevej,wikidata,-,Q57409302,way
 Studiestræde,wikidata,-,Q94795578,way
 Sumatravej,wikidata,-,Q3492,way
 Summerredvej,wikidata,-,Q2177833,way
+Sundbygårdsvej,wikidata,-,Q137049077,way
 "Sundbyøster Plads",wikidata,-,Q3430217,way
 "Sundbyvester Plads",wikidata,-,Q3430281,way
 Sundbyvestervej,wikidata,-,Q3430281,way
@@ -1227,6 +1236,7 @@ Sundevedsgade,wikidata,-,Q552668,way
 Sundholmsvej,wikidata,-,Q12337706,way
 Sundkrogsgade,wikidata,-,Q131178693,way
 Sundparken,wikidata,-,Q104662,way
+Svalehalevej,wikidata,-,Q179530,way
 Svanegade,wikidata,-,Q34384,way
 Svanemøllebro,wikidata,-,Q12337848,way
 Svanemøllevej,wikidata,-,Q12337848,way
@@ -1301,6 +1311,7 @@ Torfavej,wikidata,-,Q1474799,way
 Tornsangervej,wikidata,-,Q110257516,way
 Tornskadestien,wikidata,-,Q171052,way
 Torvegade,wikidata,-,Q3366249,way
+Toskiftevej,wikidata,-,Q191258,way
 Tovværkgade,wikidata,-,Q31029,way
 Tranevej,wikidata,-,Q4764,way
 Trangravsvej,wikidata,-,Q23754086,way
@@ -1424,6 +1435,7 @@ Vingårdstræde,wikidata,-,Q18948121,way
 Visbygade,wikidata,-,Q54757,way
 Vognmagergade,wikidata,-,Q63973019,way
 Vognmandsmarken,wikidata,-,Q12341216,way
+Vogtervej,wikidata,-,Q12059906,way
 Voldboligerne,wikidata,-,Q30242101,way
 Voldgården,wikidata,-,Q30242101,way
 Voldparken,wikidata,-,Q3375908,way
@@ -1440,7 +1452,6 @@ Wittenberggade,wikidata,-,Q6837,way
 X-Vej,wikidata,-,Q9968,way
 Ydunsgade,wikidata,-,Q204691,way
 Njalsgade,wikidata,?,Q2642621;Q844119,way
-Rantzausgade,wikidata,?,Q14523366;Q66333,way
 "Alva Myrdals Plads",wikidata,F,Q152437,way
 "Amalie Skrams Allé",wikidata,F,Q291676,way
 "Andrea Brochmanns Gade",wikidata,F,Q19786807,way
@@ -1906,6 +1917,7 @@ Pasteursvej,wikidata,M,Q529,way
 "Prins Jørgens Gård",wikidata,M,Q317499,way
 Puggaardsgade,wikidata,M,Q12315518,way
 Ramsingsvej,wikidata,M,Q12314881,way
+Rantzausgade,wikidata,M,Q66333,way
 "Rasmus Rasks Vej",wikidata,M,Q310958,way
 Rektorparken,wikidata,M,Q5788383,way
 Rentemestervej,wikidata,M,Q2688918,way
