@@ -20,6 +20,7 @@ Amager,,,,relation
 Andestien,,,,way
 Annexstræde,,,,way
 Arkaderne,,,,way
+Arkitektvej,,,,way
 Arnestedet,,,,way
 Arnesvej,,,,way
 Arsenaløen,,,,relation
@@ -49,10 +50,12 @@ Bivejen,,,,way
 Bjergmarksvej,,,,way
 Bjergvænget,,,,way
 "Blå Karamel",,,,way
+Blikkenslagervej,,,,way
 Bobakken,,,,way
 Bolandsvej,,,,way
 Boldhusgade,,,,way
 "Bøllegård Allé",,,,way
+Bolværkspladsen,,,,way
 Bomhusvej,,,,way
 Bomsluttervej,,,,way
 Bomstien,,,,way
@@ -68,6 +71,8 @@ Bredgade,,,,way
 "Bro 7B",,,,way
 Brohusgade,,,,way
 Brøndkærvej,,,,way
+Brøndskibspladsen,,,,way
+"Brostens Plads",,,,way
 Brovænget,,,,way
 Brumleby,,,,way
 Bryggerhesten,,,,way
@@ -116,6 +121,7 @@ Dyssebroen,,,,way
 Dyssevænget,,,,way
 Efterslægtsvej,,,,way
 Egebæksvej,,,,way
+Elektrikervej,,,,way
 Ellemosevej,,,,way
 Elvergårdsvej,,,,way
 "Emdrup Engvej",,,,way
@@ -123,6 +129,7 @@ Elvergårdsvej,,,,way
 "Emdrup Mosevej",,,,way
 Emdrupgårdsvej,,,,way
 Enemærket,,,,way
+"Energiens Torv",,,,way
 "Engdals Allé",,,,way
 Engdraget,,,,way
 Engholmen,,,,way
@@ -135,7 +142,6 @@ Engvej,,,,way
 Eskadrevej,,,,way
 Eskildstrupvej,,,,way
 Eskjærvej,,,,way
-Fabrikmestervej,,,,way
 Fabriksområdet,,,,way
 Fadet,,,,way
 Fælleddiget,,,,way
@@ -170,6 +176,7 @@ Frederikssundsvejstunnelen,,,,way
 "Frilands Allé",,,,way
 Frimestervej,,,,way
 Fruebjergvej,,,,way
+Fugeskevej,,,,way
 Fuglefængervej,,,,way
 Fuglegavl,,,,way
 Gadekærvej,,,,way
@@ -193,6 +200,7 @@ Gennemløbet,,,,way
 Gerlevvej,,,,way
 "Gl. Havdige Sti",,,,way
 Gladbovej,,,,way
+Glarmestervej,,,,way
 Glasvej,,,,way
 Godsbanegade,,,,way
 Granlien,,,,way
@@ -267,6 +275,7 @@ Hørhusvej,,,,way
 Horsekildevej,,,,way
 Hørtoftevej,,,,way
 Hovedvagtsgade,,,,way
+Høvlvej,,,,way
 Humlebjerg,,,,way
 Husalléen,,,,way
 Hustoftevej,,,,way
@@ -275,6 +284,7 @@ Hyskenstræde,,,,way
 Hyttehusvej,,,,way
 Indertoften,,,,way
 "Indgang 3",,,,way
+Ingeniørvej,,,,way
 "Ipsens Plads",,,,way
 Islevholm,,,,way
 "Jens Nielsens Plads",,,,way
@@ -342,6 +352,7 @@ Langesund,,,,way
 Langhusvej,,,,way
 Langkærsti,,,,way
 Langkærvej,,,,way
+Lanternepladsen,,,,way
 Lanternestien,,,,way
 Ledagersti,,,,way
 Ledagervej,,,,way
@@ -376,6 +387,7 @@ Markskellet,,,,way
 Markskiftevej,,,,way
 Markvej,,,,way
 Masteskursvej,,,,way
+Mejselvej,,,,way
 Mellemleddet,,,,way
 Mellemtoftevej,,,,way
 Mellemvangen,,,,way
@@ -384,7 +396,6 @@ Midtdyssen,,,,way
 Midtermolen,,,,way
 Midterstien,,,,way
 Midtfløjene,,,,way
-"Mios trappe",,,,way
 Moldaugade,,,,way
 Molestien,,,,way
 Møllebakken,,,,way
@@ -401,6 +412,7 @@ Mosestykket,,,,way
 Mosesvinget,,,,way
 Muldager,,,,way
 Multevej,,,,way
+"Murstens Plads",,,,way
 Musiktorvet,,,,way
 Naboløs,,,,way
 Nebbegårdsbakken,,,,way
@@ -442,6 +454,7 @@ Oliemøllegade,,,,way
 "Orient Plads",,,,way
 Orientkaj,,,,way
 Orlogsværftsvej,,,,way
+Ørredvej,,,,way
 "Øster Allé",,,,way
 "Øster Farimagsgade",,,,way
 "Østerfælled Torv",,,,way
@@ -459,7 +472,9 @@ Paradeplads,,,,way
 Parkbo,,,,way
 Parkstien,,,,way
 Parkstykket,,,,way
+Penselvej,,,,way
 "Per Døvers Vej",,,,way
+"Perlestens Plads",,,,way
 Pilebro,,,,way
 "Pladehals Allé",,,,way
 Pomonavej,,,,way
@@ -483,7 +498,9 @@ Risvangen,,,,way
 Rødegård,,,,way
 Rødelandsvej,,,,way
 Rørholmsgade,,,,way
+Rørlæggervej,,,,way
 Rørmosevej,,,,way
+Rørtangvej,,,,way
 Rosbæksvej,,,,way
 Rosendalsgade,,,,way
 Rosengården,,,,way
@@ -522,6 +539,7 @@ Skolegade,,,,way
 Skolevangen,,,,way
 Skotlandsgade,,,,way
 Skråningen,,,,way
+Skruetrækkervej,,,,way
 Skydebanevej,,,,way
 Skyggelundsvej,,,,way
 Skyttegårdvej,,,,way
@@ -559,6 +577,7 @@ Statholdervej,,,,way
 Stengade,,,,way
 Stengavl,,,,way
 Stenlandsvej,,,,way
+Stilladsarbejdervej,,,,way
 Stilledal,,,,way
 Stjernevej,,,,way
 Støbegodsvej,,,,way
@@ -589,6 +608,7 @@ Syddyssen,,,,way
 Sydløbsvej,,,,way
 Sydområdet,,,,way
 Syvstensvej,,,,way
+Tagdækkervej,,,,way
 Takkeladsvej,,,,way
 Tapperitorvet,,,,way
 Tårnblæservej,,,,way
@@ -623,6 +643,7 @@ Trampesti,,,,way
 Tranehavegård,,,,way
 Tranehavevej,,,,way
 Trappegavl,,,,way
+Trillebørvej,,,,way
 "Trinitatis Kirkeplads",,,,way
 Trommesalen,,,,way
 "Tuborg Parkvej",,,,way
@@ -641,6 +662,7 @@ Vågestien,,,,way
 "Valby Tingsted",,,,way
 "Valby Torvegade",,,,way
 Valbyholm,,,,way
+Vandkandevej,,,,way
 Vandkunsten,,,,way
 Vangehusvej,,,,way
 "Vangs Allé",,,,way
