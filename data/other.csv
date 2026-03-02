@@ -2,7 +2,6 @@ name,source,gender,wikidata,type
 Æggetorvet,,,,way
 Ærtebjergvej,,,,way
 Ærtelandsvej,,,,way
-Abildhøj,,,,way
 Abildvang,,,,way
 Åbjergvej,,,,way
 Åfløjen,,,,way
@@ -40,15 +39,12 @@ Belvederekaj,,,,way
 "Biens Allé",,,,way
 Billedvej,,,,way
 Birkagervej,,,,way
-Birkedamsvej,,,,way
 Birketinget,,,,way
 "Bispebjerg Bakke",,,,way
 Bispeengbuen,,,,way
 Bispeengen,,,,way
-Bispeparken,,,,way
 Bivejen,,,,way
 Bjergmarksvej,,,,way
-Bjergvænget,,,,way
 "Blå Karamel",,,,way
 Blikkenslagervej,,,,way
 Bobakken,,,,way
@@ -71,7 +67,6 @@ Bredgade,,,,way
 "Bro 7B",,,,way
 Brohusgade,,,,way
 Brøndkærvej,,,,way
-Brøndskibspladsen,,,,way
 "Brostens Plads",,,,way
 Brovænget,,,,way
 Brumleby,,,,way
@@ -119,7 +114,6 @@ Dykkerstien,,,,way
 Dysseager,,,,way
 Dyssebroen,,,,way
 Dyssevænget,,,,way
-Efterslægtsvej,,,,way
 Egebæksvej,,,,way
 Elektrikervej,,,,way
 Ellemosevej,,,,way
@@ -130,7 +124,6 @@ Elvergårdsvej,,,,way
 Emdrupgårdsvej,,,,way
 Enemærket,,,,way
 "Energiens Torv",,,,way
-"Engdals Allé",,,,way
 Engdraget,,,,way
 Engholmen,,,,way
 Englodden,,,,way
@@ -148,7 +141,6 @@ Fælleddiget,,,,way
 Fælledfold,,,,way
 Fælledvej,,,,way
 Færgehavnsvej,,,,way
-Fasanskovvej,,,,way
 Femkløvervej,,,,way
 Filosofgangen,,,,way
 Filosofvænget,,,,way
@@ -181,12 +173,9 @@ Fuglefængervej,,,,way
 Fuglegavl,,,,way
 Gadekærvej,,,,way
 Gadelandet,,,,way
-Gaden,,,,way
 Gærdebred,,,,way
-"Gamle Carlsberg Vej",,,,way
 "Gammel Kalkbrænderi Vej",,,,way
 "Gammel Kongevej",,,,way
-"Gammel Strand",,,,way
 Gammelgang,,,,way
 Gammeltorv,,,,way
 Gammelvagt,,,,way
@@ -228,7 +217,6 @@ Hækkevold,,,,way
 Haldagervej,,,,way
 Halvtolv,,,,way
 Hammelstrupvej,,,,way
-Hampeland,,,,way
 Håndværkerhaven,,,,way
 Hanebred,,,,way
 Harespringet,,,,way
@@ -276,7 +264,6 @@ Horsekildevej,,,,way
 Hørtoftevej,,,,way
 Hovedvagtsgade,,,,way
 Høvlvej,,,,way
-Humlebjerg,,,,way
 Husalléen,,,,way
 Hustoftevej,,,,way
 "Hyltebjerg Allé",,,,way
@@ -296,7 +283,6 @@ Kærskiftevej,,,,way
 Kagsbro,,,,way
 Kagsløkke,,,,way
 Kagsvang,,,,way
-Kamhusene,,,,way
 Kanalvej,,,,way
 Kanonbådsvej,,,,way
 Kapelvej,,,,way
@@ -410,12 +396,10 @@ Mosebakken,,,,way
 Moseskellet,,,,way
 Mosestykket,,,,way
 Mosesvinget,,,,way
-Muldager,,,,way
 Multevej,,,,way
 "Murstens Plads",,,,way
 Musiktorvet,,,,way
 Naboløs,,,,way
-Nebbegårdsbakken,,,,way
 Nedertoften,,,,way
 "Nokken Strandvej",,,,way
 Nordbyvej,,,,way
@@ -487,10 +471,10 @@ Prisholmvej,,,,way
 Prøvestenen,,,,relation
 Proviantbroen,,,,way
 Psyak,,,,way
+"Pusher Street",,,,way
+Refshaleøen,,,,relation
 Rindbyvej,,,,way
 Ringbanen,,,,way
-Ringergården,,,,way
-Ringertoften,,,,way
 Risagervej,,,,way
 Rismosevej,,,,way
 Risvangen,,,,way
@@ -514,11 +498,9 @@ Rydsletten,,,,way
 "Rygårds Allé",,,,way
 Rymarksvej,,,,way
 Ryparken,,,,way
-Rytterbakken,,,,way
 "Ryvangs Allé",,,,way
 Sakskøbingvej,,,,way
 Sandhøjen,,,,way
-Sandhusvej,,,,way
 Sandkaj,,,,way
 Saugværkspladsen,,,,way
 Scenen,,,,way
@@ -543,6 +525,7 @@ Skruetrækkervej,,,,way
 Skydebanevej,,,,way
 Skyggelundsvej,,,,way
 Skyttegårdvej,,,,way
+Slagtehusgade,,,,way
 Slagterboderne,,,,way
 Slusevej,,,,way
 Småkær,,,,way
@@ -594,6 +577,7 @@ Strandpromenaden,,,,way
 Strandtorvet,,,,way
 Strandvænget,,,,way
 Strandvejen,,,,way
+Strøget,,,,relation
 Stubbevangen,,,,way
 Stubkaj,,,,way
 "Sundby Parkvej",,,,way
@@ -648,7 +632,6 @@ Trillebørvej,,,,way
 Trommesalen,,,,way
 "Tuborg Parkvej",,,,way
 Tudsemindevej,,,,way
-Tudskærvej,,,,way
 Tuelandsvej,,,,way
 Tustrupvej,,,,way
 Tværagervej,,,,way

@@ -10,6 +10,7 @@ name,source,gender,wikidata,type
 Åbakkevej,wikidata,-,Q3529419;Q54050,way
 "Abel Cathrines Gade",wikidata,-,Q12300381,way
 Åbenrå,wikidata,-,Q16556730,way
+Abildhøj,wikidata,-,Q104819,way
 Åboulevard,wikidata,-,Q12323556,way
 Abrikosvej,wikidata,-,Q3733836,way
 Åbuen,wikidata,-,Q12323556,way
@@ -111,6 +112,7 @@ Bevtoftgade,wikidata,-,Q2012496,way
 Bilbaogade,wikidata,-,Q8692,way
 Billesborgvej,wikidata,-,Q12303452,way
 Birkebakken,wikidata,-,Q25243,way
+Birkedamsvej,wikidata,-,Q138153680,way
 Birkedommervej,wikidata,-,Q12303536,way
 Birkegade,wikidata,-,Q25243,way
 Birkholmvej,wikidata,-,Q12325428,way
@@ -118,9 +120,11 @@ Birmavej,wikidata,-,Q836,way
 Bisiddervej,wikidata,-,Q335757,way
 "Bispebjerg Parkallé",wikidata,-,Q339420,way
 Bispebjergvej,wikidata,-,Q339420,way
+Bispeparken,wikidata,-,Q137698112,way
 Bispetorvet,wikidata,-,Q4918392,way
 Bispevej,wikidata,-,Q29182,way
 Bjergstedvej,wikidata,-,Q103821075,way
+Bjergvænget,wikidata,-,Q339420,way
 Bjernedevej,wikidata,-,Q124846057,way
 "Bjerregårds Sidevej",wikidata,-,Q130349327,way
 Bjerregårdsvej,wikidata,-,Q130349327,way
@@ -265,6 +269,7 @@ Dybendalsvej,wikidata,-,Q130311959,way
 Dyrkøb,wikidata,-,Q130470157,way
 Eddagården,wikidata,-,Q108652,way
 Edelsmindevej,wikidata,-,Q130310125,way
+Efterslægtsvej,wikidata,-,Q12334952,way
 Egegade,wikidata,-,Q12004,way
 Egelykkevej,wikidata,-,Q12309439,way
 Egemarkevej,wikidata,-,Q12309440,way
@@ -291,6 +296,7 @@ Emdrupvej,wikidata,-,Q12309926,way
 Enebærvej,wikidata,-,Q3251025,way
 Energiporten,wikidata,-,Q11379,way
 Engblommevej,wikidata,-,Q161588,way
+"Engdals Allé",wikidata,-,Q16325001,way
 Engelholmvej,wikidata,-,Q12310119,way
 "Enghave Passage",wikidata,-,Q12310142,way
 "Enghave Plads",wikidata,-,Q12310142,way
@@ -318,6 +324,7 @@ Falkevej,wikidata,-,Q43489,way
 Fanøgade,wikidata,-,Q20837,way
 Farumgade,wikidata,-,Q3554742,way
 Farvergade,wikidata,-,Q130519042,way
+Fasanskovvej,wikidata,-,Q138153897,way
 "Faste Batteri Vej",wikidata,-,Q12311121,way
 Fenrisgade,wikidata,-,Q182560,way
 Fensmarkgade,wikidata,-,Q2792516,way
@@ -328,6 +335,7 @@ Fiolstræde,wikidata,-,Q146095,way
 Firkløvervej,wikidata,-,Q756314,way
 Fjenneslevvej,wikidata,-,Q986340,way
 Fladstjernevej,wikidata,-,Q156694,way
+Flæsketorvet,wikidata,-,Q191768,way
 Flaskegade,wikidata,-,Q80228,way
 Flensborggade,wikidata,-,Q3798,way
 Flinterenden,wikidata,-,Q10496822,way
@@ -341,6 +349,7 @@ Formosavej,wikidata,-,Q865,way
 Førslevvej,wikidata,-,Q1480375,way
 "Fortgård Alle",wikidata,-,Q130262107,way
 Fortunstræde,wikidata,-,Q133269956,way
+Fossgårdsvej,wikidata,-,Q137848880,way
 Frankrigsgade,wikidata,-,Q142,way
 Frankrigshusene,wikidata,-,Q142,way
 Fredensborggade,wikidata,-,Q565436,way
@@ -364,10 +373,12 @@ Fyensgade,wikidata,-,Q26503,way
 Gadstrupvej,wikidata,-,Q2367284,way
 Gærtorvet,wikidata,-,Q45422,way
 Galionsvej,wikidata,-,Q729329,way
+"Gamle Carlsberg Vej",wikidata,-,Q113215,way
 "Gamle Vasbygade",wikidata,-,Q130348401,way
 "Gammel Jernbanevej",wikidata,-,Q2305499,way
 "Gammel Køge Landevej",wikidata,-,Q21184,way
 "Gammel Mønt",wikidata,-,Q1894248,way
+"Gammel Strand",wikidata,-,Q132202175,way
 "Gammel Vartov Vej",wikidata,-,Q135800443,way
 Gårdfæstevej,wikidata,-,Q16323603,way
 Gartnergade,wikidata,-,Q758780,way
@@ -446,6 +457,7 @@ Halsskovgade,wikidata,-,Q10516606,way
 Hamletsgade,wikidata,-,Q2447542,way
 Hammerensgade,wikidata,-,Q5645686,way
 Hammershusgade,wikidata,-,Q700384,way
+Hampeland,wikidata,-,Q79817,way
 Hannovergade,wikidata,-,Q164079,way
 Hansstedvej,wikidata,-,Q135902923,way
 Hanstholmvej,wikidata,-,Q1026874,way
@@ -540,6 +552,7 @@ Hovmestervej,wikidata,-,Q609016,way
 "Hulgårds Plads",wikidata,-,Q82085041,way
 Hulgårdsvej,wikidata,-,Q130470596,way
 Humlebækgade,wikidata,-,Q2631512,way
+Humlebjerg,wikidata,-,Q158790,way
 Humlehaven,wikidata,-,Q104212,way
 Humletorvet,wikidata,-,Q104212,way
 "Husum Torv",wikidata,-,Q1802930,way
@@ -610,6 +623,7 @@ Kalkbrænderihavnsgade,wikidata,-,Q12321122,way
 Kaløvej,wikidata,-,Q12321165,way
 "Kalvebod Bølge",wikidata,-,Q23746942,way
 "Kalvebod Brygge",wikidata,-,Q23746942,way
+Kamhusene,wikidata,-,Q23834,way
 Kanadavej,wikidata,-,Q16,way
 Kanonvej,wikidata,-,Q81103,way
 Kansasvej,wikidata,-,Q1558,way
@@ -843,6 +857,7 @@ Mørkhøjvej,wikidata,-,Q12328139,way
 Morsøvej,wikidata,-,Q920763,way
 Mosedalvej,wikidata,-,Q130358146,way
 Moselgade,wikidata,-,Q1667,way
+Muldager,wikidata,-,Q1422642,way
 Mullerupvej,wikidata,-,Q12327870,way
 Murciagade,wikidata,-,Q5772,way
 Murergade,wikidata,-,Q327321,way
@@ -860,6 +875,7 @@ Nålemagerstien,wikidata,-,Q95949792,way
 Nannasgade,wikidata,-,Q500390,way
 Nattergalevej,wikidata,-,Q206130,way
 Neapelvej,wikidata,-,Q15123,way
+Nebbegårdsbakken,wikidata,-,Q137698148,way
 Nebraskavej,wikidata,-,Q1553,way
 "Nikolaj Plads",wikidata,-,Q747844,way
 Nikolajgade,wikidata,-,Q747844,way
@@ -1026,6 +1042,8 @@ Rigagade,wikidata,-,Q1773,way
 Rigensgade,wikidata,-,Q756617,way
 Rigsdagsgården,wikidata,-,Q12333473;Q3493553,way
 Ringduestien,wikidata,-,Q26026,way
+Ringergården,wikidata,-,Q587524,way
+Ringertoften,wikidata,-,Q587524,way
 Ringholmvej,wikidata,-,Q130311887,way
 Ringkøbinggade,wikidata,-,Q502693,way
 Ringstedgade,wikidata,-,Q283658,way
@@ -1065,6 +1083,7 @@ Rugvej,wikidata,-,Q12099,way
 Rumæniensgade,wikidata,-,Q218,way
 "Rungsted Plads",wikidata,-,Q946886,way
 Rysensteensgade,wikidata,-,Q125594729,way
+Rytterbakken,wikidata,-,Q2730732,way
 Rytterskolehøj,wikidata,-,Q130310073,way
 "Sadolin Parken",wikidata,-,Q12334332,way
 Sæbygade,wikidata,-,Q346802,way
@@ -1077,6 +1096,7 @@ Samosvej,wikidata,-,Q156882,way
 Samsøgade,wikidata,-,Q216422,way
 Sandbjerggade,wikidata,-,Q119857202,way
 Sandbygårdvej,wikidata,-,Q12334496,way
+Sandhusvej,wikidata,-,Q137705957,way
 Sankelmarksgade,wikidata,-,Q705271,way
 "Sankt Hans Gade",wikidata,-,Q7588612,way
 "Sankt Hans Torv",wikidata,-,Q7588612,way
@@ -1194,6 +1214,7 @@ Spøttrupvej,wikidata,-,Q643731,way
 "Stadens Vænge",wikidata,-,Q1748,way
 Stadilvej,wikidata,-,Q2370747,way
 Stærevej,wikidata,-,Q25469,way
+Staldgade,wikidata,-,Q1207909,way
 Stavangergade,wikidata,-,Q25416,way
 Stavnstrupvej,wikidata,-,Q124457301,way
 Stefansgade,wikidata,-,Q12334625,way
@@ -1331,6 +1352,7 @@ Tryggevældevej,wikidata,-,Q12343394,way
 "Tuborg Boulevard",wikidata,-,Q1798652,way
 "Tuborg Havnevej",wikidata,-,Q1798652,way
 Tuborgvej,wikidata,-,Q12337370;Q1798652,way
+Tudskærvej,wikidata,-,Q137698772,way
 Tulipanvej,wikidata,-,Q93201,way
 Tunet,wikidata,-,Q123516626,way
 Tybjergvej,wikidata,-,Q12343443,way
@@ -1675,7 +1697,6 @@ Fengersvej,wikidata,M,Q3377712,way
 Florsgade,wikidata,M,Q5734004,way
 "Folke Bernadottes Allé",wikidata,M,Q212163,way
 "Folmer Bendtsens Plads",wikidata,M,Q8513411,way
-Fossgårdsvej,wikidata,M,Q123434732,way
 "Frederik V's Vej",wikidata,M,Q156187,way
 "Frederik VII's Gade",wikidata,M,Q94941,way
 Frederiksgade,wikidata,M,Q156187,way
