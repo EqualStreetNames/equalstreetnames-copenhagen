@@ -24,6 +24,7 @@ Aggersvoldvej,wikidata,-,Q12300721,way
 Aggervej,wikidata,-,Q393175,way
 Agnetevej,wikidata,-,Q12300738,way
 Ahornsgade,wikidata,-,Q156944,way
+Ahornskellet,wikidata,-,Q156944,way
 Åkandevej,wikidata,-,Q147685,way
 Ålandsgade,wikidata,-,Q5689,way
 Albaniensgade,wikidata,-,Q222,way
@@ -66,6 +67,7 @@ Arkonagade,wikidata,-,Q460230,way
 Armeniensvej,wikidata,-,Q399,way
 Arresøgade,wikidata,-,Q699572,way
 Arsenalvej,wikidata,-,Q15518219,way
+Askeskellet,wikidata,-,Q128887,way
 Askøgade,wikidata,-,Q732364,way
 Asminderødgade,wikidata,-,Q21421224,way
 Asnæsgade,wikidata,-,Q12302335,way
@@ -115,6 +117,7 @@ Birkebakken,wikidata,-,Q25243,way
 Birkedamsvej,wikidata,-,Q138153680,way
 Birkedommervej,wikidata,-,Q12303536,way
 Birkegade,wikidata,-,Q25243,way
+Birkeskellet,wikidata,-,Q25243,way
 Birkholmvej,wikidata,-,Q12325428,way
 Birmavej,wikidata,-,Q836,way
 Bisiddervej,wikidata,-,Q335757,way
@@ -145,6 +148,7 @@ Blytækkervej,wikidata,-,Q130470669,way
 Boeslundevej,wikidata,-,Q2413191,way
 Bogenæsvej,wikidata,-,Q100578537,way
 Bogensegade,wikidata,-,Q890536,way
+Bøgeskellet,wikidata,-,Q25403,way
 Bogfinkevej,wikidata,-,Q25383,way
 "Bogholder Allé",wikidata,-,Q130312062,way
 Bogtrykkervej,wikidata,-,Q40881196,way
@@ -274,6 +278,7 @@ Efterslægtsvej,wikidata,-,Q12334952,way
 Egegade,wikidata,-,Q12004,way
 Egelykkevej,wikidata,-,Q12309439,way
 Egemarkevej,wikidata,-,Q12309440,way
+Egeskellet,wikidata,-,Q12004,way
 Egevangen,wikidata,-,Q12004,way
 Egholmvej,wikidata,-,Q12309480,way
 Egilsgade,wikidata,-,Q827943,way
@@ -472,6 +477,7 @@ Hardenbergvej,wikidata,-,Q12322839,way
 Haregade,wikidata,-,Q26838,way
 Hareskovvej,wikidata,-,Q11974337,way
 "Harrestrup Allé",wikidata,-,Q11058547,way
+Harwichgade,wikidata,-,Q990616,way
 Hasselvej,wikidata,-,Q145889,way
 Hastingsvej,wikidata,-,Q29245,way
 Hattemagerstien,wikidata,-,Q1639239,way
@@ -732,6 +738,7 @@ Kvæsthusgade,wikidata,-,Q113138002,way
 Kyringevej,wikidata,-,Q124846398,way
 Læderstræde,wikidata,-,Q286,way
 Lærdalsgade,wikidata,-,Q488975,way
+Lærkeskellet,wikidata,-,Q25618,way
 Lærkevej,wikidata,-,Q29858,way
 Laksegade,wikidata,-,Q188879,way
 Landfogedvej,wikidata,-,Q16419745,way
@@ -769,6 +776,7 @@ Limfjordsvej,wikidata,-,Q3801,way
 Lindebugten,wikidata,-,Q127849,way
 Lindehaven,wikidata,-,Q127849,way
 Lindenborgvej,wikidata,-,Q12324542,way
+Lindeskellet,wikidata,-,Q127849,way
 Lindholmsvej,wikidata,-,Q12324542,way
 Liselundvej,wikidata,-,Q1536410,way
 Livjægergade,wikidata,-,Q12322606,way
@@ -982,12 +990,14 @@ Persiensvej,wikidata,-,Q794,way
 Persillevej,wikidata,-,Q25284,way
 Petersborgvej,wikidata,-,Q656,way
 "Pile Allé",wikidata,-,Q36050,way
+Pileskellet,wikidata,-,Q36050,way
 Pilestræde,wikidata,-,Q36050,way
 Pilestykket,wikidata,-,Q36050,way
 Pilesvinget,wikidata,-,Q36050,way
 Pilevangen,wikidata,-,Q36050,way
 Pindosvej,wikidata,-,Q201582,way
 Pistolstræde,wikidata,-,Q1907525,way
+Platanskellet,wikidata,-,Q163025,way
 Platanvej,wikidata,-,Q163025,way
 Polensgade,wikidata,-,Q36,way
 Polititorvet,wikidata,-,Q11982834,way
@@ -995,6 +1005,7 @@ Pommernsgade,wikidata,-,Q104520,way
 Poppelalléen,wikidata,-,Q25356,way
 Poppelgade,wikidata,-,Q25356,way
 Poppelrækken,wikidata,-,Q25356,way
+Poppelskellet,wikidata,-,Q25356,way
 Poppelstykket,wikidata,-,Q25356,way
 Portlandsvej,wikidata,-,Q774215,way
 Portugalsgade,wikidata,-,Q45,way
@@ -1328,6 +1339,7 @@ Titangade,wikidata,-,Q12339450,way
 Tjærebyvej,wikidata,-,Q123913640,way
 Tjørnegade,wikidata,-,Q132557,way
 Tjørnerækken,wikidata,-,Q132557,way
+Tjørneskellet,wikidata,-,Q132557,way
 Tjørnevangen,wikidata,-,Q132557,way
 "Toftegårds Allé",wikidata,-,Q130349347,way
 "Toftegårds Plads",wikidata,-,Q130349347,way
@@ -1490,7 +1502,6 @@ Windsorvej,wikidata,-,Q464955,way
 Wittenberggade,wikidata,-,Q6837,way
 X-Vej,wikidata,-,Q9968,way
 Ydunsgade,wikidata,-,Q204691,way
-Njalsgade,wikidata,?,Q2642621;Q844119,way
 "Alva Myrdals Plads",wikidata,F,Q152437,way
 "Amalie Skrams Allé",wikidata,F,Q291676,way
 "Andrea Brochmanns Gade",wikidata,F,Q19786807,way
@@ -1904,6 +1915,7 @@ Nansensgade,wikidata,M,Q2017259,way
 "Niels Juels Gade",wikidata,M,Q475142,way
 "Niels Neergaards Gade",wikidata,M,Q1375094,way
 "Niels W. Gades Gade",wikidata,M,Q154632,way
+Njalsgade,wikidata,M,Q2642621,way
 Nyropsgade,wikidata,M,Q4572758,way
 Oehlenschlægersgade,wikidata,M,Q168356,way
 Offenbachsvej,wikidata,M,Q41555,way
