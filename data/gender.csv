@@ -867,7 +867,7 @@ Møgeltøndergade,wikidata,-,Q3530269,way
 "Mølle Allé",wikidata,-,Q130357881,way
 Møntergade,wikidata,-,Q1894248,way
 Møntmestervej,wikidata,-,Q1463475,way
-Morbærvej,wikidata,-,Q11113119,way
+Morbærvej,wikidata,-,Q3916883,way
 Mørkhøjvej,wikidata,-,Q12328139,way
 Morsøvej,wikidata,-,Q920763,way
 Mosedalvej,wikidata,-,Q130358146,way
@@ -1385,7 +1385,6 @@ Tybjergvej,wikidata,-,Q12343443,way
 Tyrolsgade,wikidata,-,Q16543832,way
 Tyttebærvej,wikidata,-,Q93235,way
 Udbygade,wikidata,-,Q2462798,way
-Uffesgade,wikidata,-,Q1417254,way
 Uglevej,wikidata,-,Q25222,way
 Ullerupgade,wikidata,-,Q2694351,way
 Ulriksdalvej,wikidata,-,Q15955240,way
@@ -1532,6 +1531,7 @@ Dagmarsgade,wikidata,F,Q263412,way
 "Emma Gads Vej",wikidata,F,Q3425938,way
 Esthersvej,wikidata,F,Q732413,way
 "Etta Camerons Vej",wikidata,F,Q466396,way
+"Fanny Jensens Plads",wikidata,F,Q546589,way
 "Franciska Clausens Plads",wikidata,F,Q4943051,way
 "Gerda Louw Larsens Plads",wikidata,F,Q12313773,way
 "Gertrude Steins Vej",wikidata,F,Q188385,way
@@ -1620,6 +1620,7 @@ Allersgade,wikidata,M,Q122734006,way
 "August Bournonvilles Passage",wikidata,M,Q448812,way
 "August Wimmers Vej",wikidata,M,Q6243802,way
 "Axel Heides Gade",wikidata,M,Q3378388,way
+"Axel Heides Plads",wikidata,M,Q3378388,way
 "Axel Strøbyes Vej",wikidata,M,Q792378,way
 Axeltorv,wikidata,M,Q313548,way
 Backersvej,wikidata,M,Q130367378,way
@@ -2056,6 +2057,7 @@ Turesensgade,wikidata,M,Q123017390,way
 Tuxensvej,wikidata,M,Q12324896,way
 "Tycho Brahes Allé",wikidata,M,Q36620,way
 "Tyge Krabbes Vej",wikidata,M,Q5921435,way
+Uffesgade,wikidata,M,Q1417254,way
 "Ulrik Birchs Allé",wikidata,M,Q65230146,way
 Urbansgade,wikidata,M,Q171520,way
 "V.A. Borgens Vej",wikidata,M,Q12341014,way
@@ -2079,7 +2081,6 @@ Wesselsgade,wikidata,M,Q649747,way
 Weysesgade,wikidata,M,Q707924,way
 Wiedeweltsgade,wikidata,M,Q3364484,way
 Wiinbladsgade,wikidata,M,Q12129883,way
-"Wilders Bro",wikidata,M,Q12305406;Q124439505,way
 "Wilders Plads",wikidata,M,Q124439505;Q12305406,way
 Wildersgade,wikidata,M,Q12305406,way
 "Wilhelm Marstrands Gade",wikidata,M,Q358399,way
